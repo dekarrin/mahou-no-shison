@@ -4,9 +4,9 @@ This file contains world building.
 -----
 
 
-==============
-NAME OF SCHOOL
-==============
+===================
+KOUTOUGAKKOU (KTGK)
+===================
 This is a school that was established on the basis of training up Magical Girls. Specifically, they
 deal with the use of transformation powers, management of abilities, and ethical training, as well
 as all of the other aspects of a typical education.
