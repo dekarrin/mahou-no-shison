@@ -3,7 +3,44 @@
 This file contains world building.
 -----
 
+
+==============
+NAME OF SCHOOL
+==============
+This is a school that was established on the basis of training up Magical Girls. Specifically, they
+deal with the use of transformation powers, management of abilities, and ethical training, as well
+as all of the other aspects of a typical education.
+
+In order to keep the education of MGs hidden, the fact that this school is does such training is not
+advertised, although it is not considered a secret.
+
+=============
+MAGICAL GIRLS
+=============
+A Magical Girl is a person who is capable of using extraordinary abilities for the protection of
+people. A Magical Girl is trained to use her abilities at a school such as the one listed above.
+
+The Magical Girls are the last offshoot of the ancient shinto religions. Many of their graduates
+are not magical girls in the strictest sense, but often keep their abilities hidden except in the
+most dire of situations. Virtually every shrinekeeper has had some kind of training in this aspect.
+
+Because MGs have such an extraordinary amount of power, their power is a highly regulated thing.
+All graduates are tracked by a central authority.
+
+MGs are taught to only use powers when necessary, and to respect all things in nature. Also, they
+are taught to sacrafice themselves.
+
+Most all MGs are female; the male ones are very few and far between, and thus they are now known as
+Magical Girls rather than Magical Children.
+
+Some MGs end up using their power for bad stuff. These are known as Fallen. Known ones are kept
+under the eye of the org. Most of the Fallen Girls simply use their powers for petty personal gain;
+the org is rather hands-off when it can be, and so they only really pursue those who become
+obsessed with power.
+
+
 Brainstorming
+-------------
 
 could take place in some kind of school for magical girls, kind of like Hogwarts? But for mgs.
 Ooh! Naturally this would make for a very smooth transition into kemonomimi. Transfrom! Poof!
@@ -56,27 +93,3 @@ But now, as for the student's relectance to do such a thing. Why would proto-san
 Ugh, this seems kind of contrived, but I think that it could work.
 
 
-==============
-NAME OF SCHOOL
-==============
-This is a school that was established on the basis of training up Magical Girls. Specifically, they
-deal with the use of transformation powers, management of abilities, and ethical training, as well
-as all of the other aspects of a typical education.
-
-=============
-MAGICAL GIRLS
-=============
-A Magical Girl is a person who is capable of using extraordinary abilities for the protection of
-people. A Magical Girl is trained to use her abilities at a school such as the one listed above.
-
-The Magical Girls are the last offshoot of the ancient shinto religions. Many of their graduates
-are not magical girls in the strictest sense, but often keep their abilities hidden except in the
-most dire of situations. Virtually every shrinekeeper has had some kind of training in this aspect.
-
-Because MGs have such an extraordinary amount of power, their power is a highly regulated thing.
-All graduates are tracked by a central authority.
-
-MGs are taught to only use powers when necessary, and to respect all things in nature.
-
-Most all MGs are female; the male ones are very few and far between, and thus they are now known as
-Magical Girls rather than Magical Children.
