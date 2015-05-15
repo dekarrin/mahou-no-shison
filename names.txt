@@ -3,13 +3,34 @@
 This file contains a list of names so they can be selected as needed.
 ------------
 
-Hikaru - uses char fOr hikari. Pry usable for Protag.
+Protag:
+ひかる　光 Light
+まこと　真/誠 truth/sincerity
 
 Female
 ------
-Hinata
-Hiyori
-
+ひなた
+* 日向 - Towards the sun
+ひより animesque
+なおこ/なお
+るり lapis lazuli, also logic With diff kanji
+まり
+ちとせ
+あずさ
+ゆか
+みゆき
+さゆり
 
 Male
 ----
+たかゆき
+ゆたか
+
+Surnames
+--------
+朝基（あさき） foundation of morning, Uncommon
+宮本（みやもと）base of the shrine, Common
+一条（いちじょう）first street, uncommon
+小野寺（おのでら）temple in the field, uncommon
+綾瀬（あやせ）Weave of the rapids
+藤崎（ふじさき）Wisteria peninsula
