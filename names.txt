@@ -3,15 +3,16 @@
 This file contains a list of names so they can be selected as needed.
 ------------
 
-Protag:
+プロタグ
+------
 ひかる　光 Light
 まこと　真/誠 truth/sincerity
 
-Female
+女性の名
 ------
 ひなた
-* 日向 - Towards the sun
-ひより animesque
+* 日向
+ひより アニメ見る
 なおこ/なお
 るり lapis lazuli, also logic With diff kanji
 まり
@@ -22,13 +23,13 @@ Female
 さゆり
 れいか
 
-Male
+男性の名
 ----
 たかゆき
 ゆたか
 
-Surnames
---------
+姓
+---
 朝基（あさき） foundation of morning, Uncommon
 宮本（みやもと）base of the shrine, Common
 一条（いちじょう）first street, uncommon
