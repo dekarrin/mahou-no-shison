@@ -20,6 +20,7 @@ Female
 ゆか
 みゆき
 さゆり
+れいか
 
 Male
 ----
@@ -34,3 +35,4 @@ Surnames
 小野寺（おのでら）temple in the field, uncommon
 綾瀬（あやせ）Weave of the rapids
 藤崎（ふじさき）Wisteria peninsula
+海老原（えびはら）field of shrimp
