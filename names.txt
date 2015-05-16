@@ -22,11 +22,21 @@ This file contains a list of names so they can be selected as needed.
 みゆき
 さゆり
 れいか
+ほのか
+ことり
+つきこ
+はるな
+まゆみ
+のぞみ
 
 男性の名
 ----
 たかゆき
 ゆたか
+せいじ
+けんた
+あつし
+なおや
 
 姓
 ---
@@ -34,6 +44,17 @@ This file contains a list of names so they can be selected as needed.
 宮本（みやもと）base of the shrine, Common
 一条（いちじょう）first street, uncommon
 小野寺（おのでら）temple in the field, uncommon
-綾瀬（あやせ）Weave of the rapids
-藤崎（ふじさき）Wisteria peninsula
-海老原（えびはら）field of shrimp
+綾瀬（あやせ）Weave of the rapids, uncommon
+藤崎（ふじさき）Wisteria peninsula, uncommon
+海老原（えびはら）field of shrimp, uncommon
+鈴木（すずき）Bell tree, top 3
+佐藤（さとう）wisteria from kan #1, top 3
+高橋（たかはし）high bridge, top 3
+石川（いしかわ）Stone river, common
+山本（やまもと）base of the mountain, common
+井上（いのうえ）above the well, common
+小島（こじま）small island, common
+真弓（まゆみ）Japanese Spindle Tree, uncommon
+金子（かねこ）money, uncommon
+新（あらた）new, uncommon
+田中村（たなかむら）names, Choose two from those kanji
