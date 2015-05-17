@@ -3,6 +3,12 @@
 This file contains a list of names so they can be selected as needed.
 ------------
 
+作り出す名前
+------
+綾瀬真
+綾瀬深雪
+
+
 プロタグ
 ------
 ひかる　光 Light
@@ -58,3 +64,9 @@ This file contains a list of names so they can be selected as needed.
 金子（かねこ）money, uncommon
 新（あらた）new, uncommon
 田中村（たなかむら）names, Choose two from those kanji
+狩野（かの）hunting grounds, uncommon
+松下（まつした）below the pine tree
+宮部（みやべ）shrine keeper
+沢城（さわしろ）Castle in the marsh
+富岡（とみおか）hill of riches
+堀川（ほりかわ）canal
