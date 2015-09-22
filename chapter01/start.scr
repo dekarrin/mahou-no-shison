@@ -614,4 +614,8 @@ Makoto: "Yes, ma'am."
 
 [Mayumi: normal]
 
-Mayumi: "Matsushita-san, I apologize for the interruption. Please tell us why cats behave strangely when exposed to the plant."
+Mayumi: "Matsushita-san, I apologize for the interruption. Please tell us the real reason why cats behave strangely when exposed to the plant."
+
+[Mayumi: normal MOVE TO LEFT]
+[Enter: Ruri FROM RIGHT TO RIGHT]
+
