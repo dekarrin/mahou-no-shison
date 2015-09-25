@@ -1,4 +1,4 @@
-[Section: start]
+(Section: start)
 
 [Scene: BLACK]
 
@@ -36,25 +36,25 @@
 
 : "Oh? A break in the silence? I can hear wind now."
 
-The Wind: "Ma... Ma..."
+"The Wind": "Ma... Ma..."
 
 : "Aww. I wish it'd stop. It's cutting into my sun."
 
-The Wind: "Ma... Ma... Ma... kot..."
+"The Wind": "Ma... Ma... Ma... kot..."
 
 : "Eh? Strange, it almost sounds like my name."
 
-The Wind: "Ma...ko...to...Mako...to."
+"The Wind": "Ma...ko...to...Mako...to."
 
 : "Okay, that can't be coincidence. It's definately calling my name!"
 
-The Wind: "Ma-Makoto-Ma-koto-Ma-! Ma-! Ma-! Ma-!"
+"The Wind": "Ma-Makoto-Ma-koto-Ma-! Ma-! Ma-! Ma-!"
 
 [Scene: FADE TO makotos-bedroom]
 
-[Description: We see the bedroom of Makoto Ayase. Clearly visible is a single door, a bed, a nightstand with alarm clock, a desk, and open closet with a pile of laundry in it. There is a deck of cards sitting on a shelf on the desk. The room is a mess, with clothes, books, Collective cards, and various other items littering the floor and desk.]
+(Description: We see the bedroom of Makoto Ayase. Clearly visible is a single door, a bed, a nightstand with alarm clock, a desk, and open closet with a pile of laundry in it. There is a deck of cards sitting on a shelf on the desk. The room is a mess, with clothes, books, Collective cards, and various other items littering the floor and desk.)
 
-[SFX: loop "alarm-clock.ogg"]
+[SFX: LOOP "alarm-clock.ogg"]
 
 : "Wha- huh?"
 
@@ -62,7 +62,7 @@ The Wind: "Ma-Makoto-Ma-koto-Ma-! Ma-! Ma-! Ma-!"
 
 Makoto: "Shadduuup, alarm."
 
-[SFX: stop "alarm-clock.ogg"]
+[SFX: STOP "alarm-clock.ogg"]
 [SFX: "alarm-break.ogg"]
 
 : "Mmm, 8:30."
@@ -78,15 +78,15 @@ Makoto: "Shadduuup, alarm."
 : "Why does technology hate me so much?"
 
 [SFX: "sheets-rustle.ogg"]
-[Camera: SCROLL UP]
+[Camera: PAN TO CENTER]
 
 : "Okay, okay! Gotta move. First things first: pants."
 
-[Camera: PAN TO random spots AND ZOOM IN AND ZOOM OUT]
+[Camera: PAN TO random-spots AND ZOOM IN AND ZOOM OUT]
 
 : "Pants, pants, need pants..."
 
-[Camera: PAN TO laundry pile AND QUICKLY ZOOM IN]
+[Camera: PAN TO laundry-pile AND ZOOM IN QUICKLY]
 
 : "Ah! Pants! Let's see..."
 
@@ -98,45 +98,45 @@ Makoto: "Shadduuup, alarm."
 
 : "Okay, next is shirt, shirt, shirt..."
 
-[Camera: PAN TO random spots AND ZOOM IN AND ZOOM OUT]
+[Camera: PAN TO random-spots AND ZOOM IN AND ZOOM OUT]
 
 : "Argh! Where did I put that stupid thing?!"
 
-[Camera: PAN TO random spots AND ZOOM IN AND ZOOM OUT]
+[Camera: PAN TO random-spots AND ZOOM IN AND ZOOM OUT]
 
 : "Grrr, why do I do this to myself? All I had to do was prepare my stuff last night.Oh, why don't I ever learn?"
 
-[Camera: PAN TO random spots AND ZOOM IN AND ZOOM OUT]
+[Camera: PAN TO random-spots AND ZOOM IN AND ZOOM OUT]
 
 : "Next time, I swear I'll do it! Just please let me find one lousy shirt!"
 
 [SFX: "door-knock.ogg"]
 
-[CAMERA: QUICKLY PAN TO door]
+[CAMERA: PAN TO door QUICKLY]
 
 : "Eh?"
 
-Miyuki: (muffled) "Makoto? Are you up yet?"
+Miyuki (muffled): "Makoto? Are you up yet?"
 
 : "Miyuki? What could she possibly want at this time of day? Go away!"
-'
+
 Makoto: "Hold on, I'm getting ready!"
 
 : "Now, that shirt, where could it-"
 
 [SFX: "door-knock.ogg"]
 
-Miyuki: (muffled) "It's kinda important! Could you open the door?"
+Miyuki (muffled): "It's kinda important! Could you open the door?"
 
 : "Seriously? I said I'm busy! I swear, there must be some sort of cosmic law that says that little sisters exist to lay annoyances on you at the worst possible time!"
 
 Makoto: "Screw off! I don't care!"
 
-Miyuki: (muffled, angrily) "Screw YOU, jerk!" I just thought that you MIGHT want to know that your school shirts are in the laundry room!"
+Miyuki (muffled, angrily): "Screw YOU, jerk! I just thought that you MIGHT want to know that your school shirts are in the laundry room!"
 
 : "In the laundry room? Mom must have grabbed them last night after I went to sleep!"
 
-Miyuki: (muffled, angrily) "But whatever!"
+Miyuki (muffled, angrily): "But whatever!"
 
 [SFX: "footsteps-interior.ogg"]
 
@@ -150,11 +150,11 @@ Miyuki: (muffled, angrily) "But whatever!"
 
 [Scene: DISSOLVE TO ayase-bedroom-hall]
 
-[Description: We are looking down the length of a dimly-lit hall. There are two bedroom doors; one is Miyuki's and one is Makoto's. The door at the far end leads to the laundry room. Other doors perhaps lead to various other places as appropriate; bathroom, storage closet, etc. The light in Miyuki's room is on.]
+(Description: We are looking down the length of a dimly-lit hall. There are two bedroom doors; one is Miyuki's and one is Makoto's. The door at the far end leads to the laundry room. Other doors perhaps lead to various other places as appropriate; bathroom, storage closet, etc. The light in Miyuki's room is on.)
 
-[Enter: Miyuki (pissed) FROM miyuki bedroom door TO CENTER]
+[Enter: Miyuki (pissed) FROM miyuki-bedroom-door TO CENTER]
 
-Miyuki: (sarcastically) "Oh, look at that! I guess you do care!"
+Miyuki (sarcastically): "Oh, look at that! I guess you do care!"
 
 Makoto: "Oh, quit being such a brat! My clothes, did they get all mixed in with the dirty laundry?"
 
@@ -188,7 +188,7 @@ Miyuki: "*sigh* Whatever. It's fine. Your shirts are on the dryer if you wanted 
 
 Makoto: "K, thanks!"
 
-[Camera: QUICKLY PAN TO laundry room AND QUICKLY ZOOM IN]
+[Camera: PAN TO laundry-room QUICKLY AND ZOOM IN QUICKLY]
 
 : "I'm really not trying to be rude, but I'm in a hurry here!"
 
@@ -236,7 +236,7 @@ Makoto: "K, thanks!"
 
 [SFX: "book-sliding.ogg"]
 
-[Camera: ZOOM OUT AND CENTER]
+[Camera: ZOOM OUT AND PAN TO CENTER]
 
 : "Oh well. I'll just have to try and finish the reading before class. I do NOT want to get caught without having done it again."
 
@@ -246,7 +246,7 @@ Makoto: "K, thanks!"
 
 [Scene: DISSOLVE TO ayase-bedroom-hall]
 
-[Description: We see a modern living room. The living area contains seating as well as a television set. There is a door leading to the exterior, as well as the corner of an adjoining kitchen area.]
+(Description: We see a modern living room. The living area contains seating as well as a television set. There is a door leading to the exterior, as well as the corner of an adjoining kitchen area.)
 
 [Enter: Miyuki FROM kitchen TO CENTER]
 
@@ -264,11 +264,11 @@ Miyuki: "Just so you know, there's a few pieces of toast left in the kitchen if 
 
 Makoto: "Thaaaaank you!"
 
-[Camera: SNAP TO kitchen AND QUICKLY ZOOM IN]
+[Camera: SNAP TO kitchen AND ZOOM IN QUICKLY]
 
 [Scene: DISSOLVE TO ayase-kitchen]
 
-[Description: An everyday modern kitchen. On the counter is a plate with a few pieces of burnt toast. A bottled juice is next to it.]
+(Description: An everyday modern kitchen. On the counter is a plate with a few pieces of burnt toast. A bottled juice is next to it.)
 
 : "No time for a proper breakfast; this'll have to do!"
 
@@ -278,7 +278,7 @@ Makoto: "Thaaaaank you!"
 
 [Scene: DISSOLVE TO ayase-living-room]
 
-[Camera: SNAP TO exterior door AND QUICKLY ZOOM IN]
+[Camera: SNAP TO exterior-door AND ZOOM IN QUICKLY]
 
 [Scene: FADE TO BLACK]
 
@@ -286,11 +286,11 @@ Makoto: "Thaaaaank you!"
 
 [Scene: FADE TO kusanagi-exterior]
 
-[Description: A school complex in a suburban setting. One wing opens into a small greenhouse structure.]
+(Description: A school complex in a suburban setting. One wing opens into a small greenhouse structure.)
 
 [Enter: Honoka (back, distant) FADE IN TO CENTER]
 
-[SFX: loop "sprinting-concrete.ogg"]
+[SFX: LOOP "sprinting-concrete.ogg"]
 
 : "Almost there"
 
@@ -298,15 +298,15 @@ Makoto: "Thaaaaank you!"
 
 : "Nice! Only 5 minutes late. Maybe I can sneak in the back when Mayumi-Sensei is not looking."
 
-[SFX: stop "sprinting-concrete.ogg"]
+[SFX: STOP "sprinting-concrete.ogg"]
 
 [Camera: PAN TO Honoka]
 
 : "Oh! Is that...?"
 
-[Camera: ZOOM IN MED]
+[Camera: ZOOM IN]
 
-[Camera: PAN TO CENTER AND ZOOM OUT NORMAL]
+[Camera: PAN TO CENTER AND ZOOM OUT]
 
 Makoto: "Hey, Kano-san!"
 
@@ -315,9 +315,9 @@ Makoto: "Hey, Kano-san!"
 [Honoka: suprised]
 [Honoka: normal]
 
-Honoka: (distant) "Huh? Oh, hello, Ayase-san!"
+Honoka (distant): "Huh? Oh, hello, Ayase-san!"
 
-[Honoka: normal, walk-up]
+[Honoka: GO TO center-close]
 
 Honoka: "What are you doing out here?"
 
@@ -444,7 +444,7 @@ Honoka: "I'm sorry."
 
 Makoto: "I, um, that's okay, really I'm the one who-"
 
-[GFX: START mirage-shimmer-light]
+[GFX: LOOP mirage-shimmer-light]
 
 : "Uwaa! What... is going on?"
 
@@ -529,7 +529,7 @@ Makoto: "Waaaaaaaaa!"
 : "...Or not."
 
 [Scene: DISSOLVE TO classroom-mayumi]
-[Enter: DISSOLVE TO Mayumi (book) TO CENTER]
+[Enter: Mayumi (book) DISSOLVE IN TO CENTER]
 
 [Mayumi: normal]
 
@@ -616,6 +616,6 @@ Makoto: "Yes, ma'am."
 
 Mayumi: "Matsushita-san, I apologize for the interruption. Please tell us the real reason why cats behave strangely when exposed to the plant."
 
-[Mayumi: normal MOVE TO LEFT]
+[Mayumi: GO TO LEFT]
 [Enter: Ruri FROM RIGHT TO RIGHT]
 
