@@ -619,3 +619,55 @@ Mayumi: "Matsushita-san, I apologize for the interruption. Please tell us the re
 [Mayumi: GO TO LEFT]
 [Enter: Ruri FROM RIGHT TO RIGHT]
 
+[Ruri: explain-1]
+
+Ruri: "Of course. The essance behind cataria is naturally aligned very closely with that of cats; ergo, vital energy can easily transfer between the two."
+
+[Ruri: explain-2]
+
+Ruri: "Cats are not accustomed to having such a surplus of life force, and so they go into a rather strange state in an attempt to drain off some of the excess energy
+"
+
+[Mayumi: smile]
+
+Mayumi: "Very good, Ruri. Please be seated."
+
+[Ruri: smile]
+
+: "Man, I'm so jealous of Ruri. I don't think I've ever seen her miss a question."
+
+[Exit: Ruri]
+
+Mayumi: "But then, not all cats behave in this way. Why is this? Satou?"
+
+[Enter: Chitose (thinking)]
+
+Chitose: "Uhhhmmm... Oh! Is it because the cataria was prepared differently? Maybe something like some of it was cut in the wrong place!"
+
+[Mayumi: frown]
+
+Mayumi: "While that does account for some differences in attunement, it doesn't explain why some cats have no reaction to a particular preparation which other cats do react to."
+
+[Chitose: worried]
+
+Chitose: "Ah..."
+
+Mayumi: "So then, why would some cats be unaffected?"
+
+[Chitose: worried-2]
+
+Chitose: "Er, um, I'm not sure, I'm sorry!"
+
+[Mayumi: explain-1]
+
+Mayumi: "It has to do with the spiritual state of the animal. Does that help at all?"
+
+Chitose: "Uhhhh..."
+
+Ruri (whispering): "Purity... its purity..."
+
+Chitose: "Uahm, is it that they're overwhelmed?"
+
+[Mayumi: frown]
+
+Mayumi: "The correct answer is that some cats have lost their purity; it could be something as simple as having recently killed to eat, but it doesn't matter."
