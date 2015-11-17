@@ -312,7 +312,7 @@ Makoto: "Hey, Kano-san!"
 
 [Honoka: side]
 [Honoka: normal]
-[Honoka: suprised]
+[Honoka: surprised]
 [Honoka: normal]
 
 Honoka (distant): "Huh? Oh, hello, Ayase-san!"
@@ -812,4 +812,134 @@ Makoto: "I think she just enjoys railing on me because I'm a guy."
 
 [Chitose: surprised]
 
-: "
+: "It was no secret that Mayumi was strongly against enrolling a male student at Kusanagi Institute."
+
+: "Fortunately for me, she was voted down in that comittee."
+
+: "I don't think that she's ever quite forgiven me for the vast crime of being male."
+
+[Ruri: explain-1]
+
+Ruri: "While instructors are stongly discouraged from open displays of bias, the relative magnitude of her begavior towards you gives me cause to concur."
+
+[Chitose: surprised-2]
+
+: "What?"
+
+: "I have no idea if she's for me or against me here!"
+
+Chitose: "Ah, Ruri? Could you maybe use words that are just an intsy-weentsy bit smaller?"
+
+[Ruri: embarassed]
+
+Ruri: "Ah, please excuse me. I meant to say only that she treats you worse than the other students, so I also think she might not like you."
+
+[Chitose: normal]
+
+Makoto: "Oh, okay. Why didn't you say so?"
+
+[Ruri: confused]
+
+Ruri: "...?"
+
+Makoto: "...Never mind."
+
+[Ruri: annoyed]
+
+# what weird flow! should be changed...
+Makoto: "Anyways, I'm sure it doesn't help my case with Mayumi that I forget to do my readings so much."
+
+[Ruri: normal]
+[Chitose: eyes-closed]
+
+Chitose: "Or come in late! What was up with that?"
+
+Makoto: "A bit of a mechanical problem with my alarm clock when I was trying to make it ring an hour early."
+
+[Ruri: quizical]
+[Chitose: quizical]
+
+Makoto: "Ah, I must have pushed the wrong button or something. It didn't wake me up until an hour later than normal!"
+
+[Ruri: surprised]
+[Chitose: normal]
+
+Ruri: "You of all people are quire fond of somnalence. Why were you trying to set the clock back?"
+
+Makoto: "Well, you know, I'd forgotten to do the reading..."
+
+[Ruri: eyes-closed]
+[Chitose: eyes-closed]
+
+Ruri: "Ah."
+
+Chitose: "Oh."
+
+Makoto: "...and I was planning to do it this morning before I got up for school."
+
+[Chitose: explain-1]
+
+Chitose: "I get that. But, Makoto, I'm not trying to be rude or anything, but I think you should really try and do your homework the day before!"
+
+[Ruri: normal]
+
+Ruri: "And not, perhaps, the hour preceeding."
+
+Makoto: "Okay, mom. Thanks."
+
+: "I already know all this. Hindsight is 20-20, blah blah."
+
+[SFX: makoto-sigh]
+
+Makoto: "You know, I'm really not a stellar student."
+
+[Chitose: normal]
+[Ruri: frown]
+
+Makoto: "Mayumi has plenty to hate about me without having to resort to my maleness."
+
+[Enter: Honoka (smirky) QUICKLY]
+
+[Chitose: surprised]
+[Ruri: surprised]
+
+Honoka: "Nope. It's 'cause you're a dude, dude."
+
+[Chitose: smile]
+
+Chitose: "Hiiii, Honoka!"
+
+[Ruri: smile]
+
+Ruri: "Greetings, Kano-san."
+
+Makoto: "Yo."
+
+[Ruri: normal]
+[Chitose: normal]
+
+Honoka: "Heyo."
+
+[Honoka: normal]
+
+Honoka: "Anyways, yeah, Mayumi has a grudge against you. You could do all the homework in the world with all the extra credit, but she's not gonna come around, not ever."
+
+[Chitose: determined]
+
+Chitose: "Ah, that can't be! It wouldn't be faaaair! Makoto's..."
+
+[Chitose: thoughtful]
+
+Chitose: "...not that bad."
+
+: "Gee, thanks. You're my hero, Chitose."
+
+[Chitose: normal]
+
+[Honoka: explain-1]
+
+Honoka: "Doesn't matter. Mayumi's convinced that all guys are evil."
+
+[Honoka: look-at-makoto]
+
+Honoka: "She thinks all they do is think impure thoughts."
