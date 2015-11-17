@@ -670,4 +670,66 @@ Chitose: "Uahm, is it that they're overwhelmed?"
 
 [Mayumi: frown]
 
-Mayumi: "The correct answer is that some cats have lost their purity; it could be something as simple as having recently killed to eat, but it doesn't matter."
+Mayumi: "The correct answer is that some cats have a clouded will."
+
+[Mayumi: explain-1]
+
+Mayumi: "This loss of purity is not always a result of activities that we might consider 'wrong'."
+
+[Mayumi: explain-2]
+
+Mayumi: "It could be from something as simple as having recently killed to eat."
+
+[Mayumi: explain-1]
+
+Mayumi: "But just that little bit of exposure to death is enough to break the connection to the essances of the world."
+
+[Chitose: ashamed]
+
+Chitose: "Ah... I get it now."
+
+[Mayumi: normal]
+
+Mayumi: "Very well. Please be seated."
+
+[Exit: Chitose]
+
+[Mayumi: explain-1]
+
+Mayumi: "Remember, once purity is los, it becomes extremely difficult to maintain a connection to kami."
+
+# explain kami here
+
+[Mayumi: explain-2]
+
+Mayumi: "It's not impossible, but recall that most people cannot do it, let alone animals."
+
+[Mayumi: frown]
+
+Mayumi: "Keep that in mind as you approach graduation. Actions that cause loss of purity are the leading cause of dropouts."
+
+[Mayumi: pissed AND GO TO get-very-close]
+
+: "Uwa!"
+
+Mayumi: "And should any student be found to be involved with another's 'loss o prity', you can be assured that very serious action would be taken against the student!"
+
+: "Eeeeee! Mayumi-Sensei is freaking scary!"
+
+Mayumi: "Is that quite clear, Ayase-san?"
+
+Makoto: "Y-yes ma'am!"
+
+[Mayumi: smile AND GO TO back-up]
+
+Mayumi: "I'm so very glad to hear it."
+
+[Mayumi: normal]
+
+Mayumi: "Now, please to turn to page 382 in your textbooks."
+
+(Scene: FADE TO BLACK)
+
+(Scene: FADE TO classroom-mayumi)
+
+[SFX: school-buzzer]
