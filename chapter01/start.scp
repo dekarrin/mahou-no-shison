@@ -708,7 +708,7 @@ Mayumi: "It's not impossible, but recall that most people cannot do it, let alon
 
 Mayumi: "Keep that in mind as you approach graduation. Actions that cause loss of purity are the leading cause of dropouts."
 
-[Mayumi: pissed AND GO TO get-very-close]
+[Mayumi: pissed, GO TO get-very-close]
 
 : "Uwa!"
 
@@ -720,7 +720,7 @@ Mayumi: "Is that quite clear, Ayase-san?"
 
 Makoto: "Y-yes ma'am!"
 
-[Mayumi: smile AND GO TO back-up]
+[Mayumi: smiling, GO TO back-up]
 
 Mayumi: "I'm so very glad to hear it."
 
@@ -774,10 +774,8 @@ Mayumi: "All right, you're dismissed."
 
 [SFX: exiting-class]
 
-[Scene: class-halls]
-
+[Scene: DISSOLVE TO class-halls]
 [Enter: Chitose WITH PREVIOUS]
-
 [Enter: Ruri WITH PREVIOUS]
 
 Makoto: "Man, that was rough."
@@ -957,6 +955,256 @@ Chitose: "Makoto's not like that, though!"
 
 : "Being the only guy at this school, I can't say I've never... um... considered the posibilities..."
 
-: "But it's not like it's lead to anything!"
+: "But it's not like it'd lead to anything!"
 
+Ruri: "B-biologically speaking, such a d-drive does tend to be stronger in males."
+
+: "Waaaaa! Ruri? Why'd you have to bring up the elephant in the room?"
+
+Chitose: "..."
+
+: "Ah, now the're all staring at me!"
+
+Makoto: "H-h-hey! Stop being so weird!"
+
+Makoto: "Anyways, even if I did have urges like that, it's not like I would ever act on it!"
+
+[Honoka: smirk]
+
+Honoka: "Well, duh. You're not an animal."
+
+[Chitose: determined]
+
+Chitose: "B-besides, Makoto couldn't be here doing magic if he were impure, right?"
+
+[Ruri: explain-1]
+
+Ruri: "That is a statement of fact. It would be unfeasible for him to acquire such ability after, um, having acquired impurity."
+
+: "..."
+
+: "Wha...?"
+
+Honoka (normal): "I think what she's trying to say is that you're right, Chitose. Makoto is about as impure as freshly-fallen snow."
+
+[Chitose: relieved]
+
+Ruri (annoyed): "Well, if one insists on using a phrase with the lowest common denominator of meaning, I suppose you're right."
+
+[Chitose: scared]
+
+Honoka (annoyed): "My apologies. Next time I'll follow your shining example and try to speak so no one can talk to me."
+
+: "Guuuu, why do these two always have to fight so much?"
+
+: "They're both so smart! They should get along great!"
+
+Ruri (angry): "Naturally no one would talk to you. The banality of your speech would cause everyone to be driven away."
+
+[Honoka: angry]
+
+: "Coulda, shoulda, woulda..."
+
+Makoto: "Ah, hey! It's almost time for PE, so shouldn't we get changed?"
+
+Chitose (relieved): "Yes, yes! Let's get going!"
+
+[Exit: Ruri]
+[Exit: Chitose WITH PREVIOUS]
+[Exit: Honoka WITH PREVIOUS]
+
+[SFX: LOOP footsteps-interior]
+[Scene: DISSOLVE TO kusanagi-hallway-3]
+
+: "They're still bickering as they turn the corner!"
+
+: "I really don't have any idea why they hang out."
+
+: "..."
+
+: "I don't even know what they were arguing about! They were saying the exact same thing!"
+
+[Scene: DISSOLVE TO kusanagi-hallway-4]
+
+: "..."
+
+: "Ugh. This business about my purity is starting to wear on me."
+
+: "I mean, it's like everybody here thinks one day I'm gonna crack and defile half the students."
+
+: "But I couldn't even learn to manipulate magic if I weren't pure of mind! They even said so themselves!"
+
+: "..."
+
+: "Sometimes I wonder about that, though."
+
+: "After all, well, I do have impulses after all! They thought of, um, impure relations, certainly has crossed my mind, many times!"
+
+: "Not that I would ever act on it!"
+
+: "But I'm only human! I can't exactly stop the thoughts from happening."
+
+: "But everything I've been taught here tells me that all it takes are those thoughts to make me impure!"
+
+: "Still, I haven't had any real problems in my studies. So...?"
+
+: "..."
+
+: "I don't know. Magic is just weird sometimes I guess."
+
+: "Just one of the many things I deal with at an all-girls school."
+
+: "..."
+
+: "Well, that and not having a boys' locker room."
+
+: "It's pretty annoying to have to go all the way down to the nurse's office every time I have to change."
+
+: "As liberal as this school might be in accepting my admission, they were certainly not willing to have me change in the locker room!"
+
+: "...with the girls..."
+
+: "...where anything could happen..."
+
+: "Okay, STOP, Makoto! That's one of those impure thoughts again!"
+
+: "Geez, have some mental discipline!"
+
+: "..."
+
+[Scene: DISSOLVE TO kusanagi-hallway-nurse]
+[SFX: STOP footsteps-interior]
+
+: "Anyways, there's the Nurse's office."
+
+[Enter: Tsukiko (in-PE-outfit) FADE IN TO door]
+
+Makoto: "Oh! Hi there, Tsukiko!"
+
+[Tsukiko: GO TO walk-up]
+
+Tsukiko (smiling): "Good morning, Makoto! How are you?"
+
+Makoto: "Not so bad; and you?"
+
+Tsukiko (normal): "I'm all right, I suppose."
+
+: "Now that I think about it, I wonder why she's here? Usually she's in the gym long before I get here."
+
+Makoto: "I don't usually see you on my way here. Nothing's wrong, right?"
+
+Tsukiko (laughing): "Ahaha! Oh, no! It's nothing like that."
+
+Tsukiko (normal): "I just had a change in my medication and I was going over it with the nurse."
+
+# Todo: bring this up before this point.
+: "Ah, right! She had been gone awhile for that doctor's visit; I bet that's what this is about."
+
+Makoto: "Ah, okay, good! Just double checking."
+
+Tsukiko (smiling): "You know, you guys really don't need to worry so much; I'm fine!"
+
+Makoto: "But we do worry! What if something awful were to happen?"
+
+Tsukiko (laughing): "Ahaha, Makoto! It's really not that bad."
+
+Tsukiko (explain-1): "Honestly, it's not like how it is on TV. The worst that happens is I get a little spacey and shaky."
+
+Tsukiko (smiling): "And as long as I take my medicine, not even that happens!"
+
+Makoto: "Okay, okay, if you say so."
+
+Tsukiko (happy): "And I do!"
+
+: "Man, that has to suck so much. You'd think that with modern medicine and magic, we'd have cured it by now."
+
+: "At least Tsukiko seems pretty upbeat about it."
+
+: "I guess she has to, though."
+
+Tsukiko (normal): "Well then, see you in PE!"
+
+Makoto: "Yeah, see ya."
+
+[Exit: Tsukiko]
+
+[Scene: DISSOLVE TO kusanagi-nurses-office]
+[Enter: Horikawa (sitting) WITH PREVIOUS]
+[SFX: door-open-close]
+
+[Horikawa: sitting, surprised]
+[Horikawa: normal]
+[Horikawa: GO TO CENTER]
+
+Horikawa (scared): "Ah, Makoto! I'm really sorry!"
+
+: "Huh?"
+
+Horikawa: "I fell behind in paperwork and so I wasn't able to have your clothes ready for you! I'm really sorry!"
+
+: "Woman, you are faculty here! You don't need to be so apologetic."
+
+Makoto: "Ah, that's okay. I-"
+
+Horikawa (determined): "I'll get it right away, sir!"
+
+[Exit: Horkiawa TO LEFT QUICKLY]
+
+: "Seriously... it's really not that big of a deal."
+
+[Enter: Horikawa (frightened) FROM LEFT QUICKLY]
+
+Horikawa: "H-h-here! Please forgive my behavior!"
+
+[SFX: rustling]
+
+Makoto: "It's... uh... fine. Thanks."
+
+Horikawa (smiling): "Please, think nothing of it!"
+
+: "How am I supposed to do that when you make such a big deal about it?"
+
+: "..."
+
+[Horikawa: looking-down]
+
+: "Ah, geez, what now? Did I look at you too long?"
+
+: "You really need to chill, Horikawa."
+
+: "..."
+
+: "Actually, you really need to leave the room. I gotta change."
+
+Makoto: "Um, Horikawa? Now that I have my clothes..."
+
+[Horikawa: GO TO jump-up]
+
+Horikawa (embarassed): "Ahhhh! I'm sorry! Sorry, sorry, sorry!"
+
+[Exit: Horikawa QUICKLY]
+
+Makoto: "Uh... Thanks... I think?"
+
+: "..."
+
+: "She is so flipping high-strung. You'd think I'd threatened her or something."
+
+: "At least in her case she's like to everybody, and it's not my 'male nature' making her feel threatened."
+
+: "But then, most people here don't seem to have the same problem with me that Mayumi does."
+
+: "Or at least they try not to show it."
+
+: "I can tell I'm treated differently, but at least most people are making an effort."
+
+: "..."
+
+: "What can I say? I really am an oddity in this school. I guess I'd find it just as weird if there were a girl at an all-boys school."
+
+: "Whatever..."
+
+[SFX: rustling-fabric]
+
+: "Okay, now on to PE."
 
