@@ -1,0 +1,30 @@
+(Section: day-1-common)
+
+[Scene: DISSOLVE TO classroom]
+
+: "Lame, lame, lame!"
+
+: "Reading club is not supposed to be about doing actual work!"
+
+: "I can't believe they made me replace my manga with those boring word-books!"
+
+: "Ugh, don't they know anything?"
+
+: "How am I supposed to enjoy my youth when I'm being forced to waste it away!"
+
+: "I mean I guess the book wasn't TOO bad, but still..."
+
+: "Friggin' fascists. All of 'em!"
+
+(IF: going-to-shrine)
+{
+	(GOTO: shrine-path-2)
+}
+(ELSE IF: going-to-home)
+{
+	(GOTO: home-path-2)
+}
+(ELSE IF: going-to-library)
+{
+	(GOTO: library-path-2)
+}

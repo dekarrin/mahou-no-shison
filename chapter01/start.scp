@@ -1689,32 +1689,7 @@ Chitose: "Are you coming too?"
 
 Makoto: "Ahhh...."
 
-[Choice go-to-shrine]
+[Choice shrine-choice]
 * "Sure, I'll come with!": GO TO shrine-path-1
 * "I need to study at the library.": GO TO library-path-1
 * "I want to go home.": GO TO home-path-1
-
-(Section: shrine-path-1)
-Makoto: "Yeah, I'll tag along! I haven't been to the shrine in forever."
-
-[Chitose: happy]
-[Tsukiko: happy]
-
-Tsukiki: "Awesome! I'll see you guys after school!"
-
-: "It will be nice to get some quiet time."
-
-: "It's been a hectic week."
-
-[Scene: DISSOLVE TO classroom]
-
-: "Lame, lame, lame!"
-
-: "Reading club is not supposed to be about doing actual work!"
-
-: "I can't believe they made me replace my manga with those boring word-books!"
-
-: "Ugh, don't they know anything?"
-
-: "How am I supposed to enjoy my youth when I'm being forced to waste it away!"
-
