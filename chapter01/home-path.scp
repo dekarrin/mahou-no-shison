@@ -114,7 +114,7 @@ Makoto: "Yeah..."
 
 : "I've waited on this deck for far too long!"
 
-(GOTO: home-path-3)
+(GOTO: ch1-common-sleep-1)
 
 (Section: imouto-movies-1)
 
@@ -369,3 +369,54 @@ Makoto: "That was amazing!"
 
 Miyuki (embarassed): "Not really... action movies are pretty easy to guess at."
 
+Makoto: "How come you never told me you knew so much about movies?"
+
+Miyuki: "Eh? You never asked."
+
+[Miyuki: GO TO stand]
+
+Miyuki: "Well, it's getting kinda late."
+
+Miyuki: "I'd better head to bed."
+
+: "It's only 11:30!"
+
+Makoto: "It's the weekend, though!"
+
+Makoto: "This is the one time it's okay to stay up super late."
+
+Miyuki: "Ha, not for me. If I start going to bed late, it'll throw off my whole schedule."
+
+: "She's like clockwork. Though I suppose it is late for her."
+
+Makoto: "All right then. Goodnight."
+
+Miyuki: "'Night."
+
+[Exit: Miyuki]
+
+: "Since when has my sister been such a film buff?"
+
+: "I knew she kept herself shut up in her room a lot, watching movies..."
+
+: "I always just thought of her as something of a NEET-in-training..."
+
+: "Not really much use for predicting movies though."
+
+: "I mean, except for sucking the fun out of them."
+
+: "Whatever."
+
+: "I wonder what I should do now?"
+
+: "I suppose I could get an early start on that homework..."
+
+: "On the other hand... there's always tomorrow for stuff like that..."
+
+: "..."
+
+: "Wait, wasn't there a special stream on tonight for the new MtC release?"
+
+: "Ah, I can't miss that!"
+
+(GOTO: ch1-common-sleep)
