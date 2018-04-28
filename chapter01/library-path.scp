@@ -44,3 +44,140 @@ Honoka: "Yeah... I'm off too. See you then."
 
 : "I don't see Honoka or Ruri around though. They must be inside already."
 
+[Scene: DISSOLVE TO library-interior]
+
+: "Ah, the library. So quiet and calm."
+
+# my dude, tone down makoto's mentioning "the library"
+
+: "It really is a nice atmosphere to get work done in."
+
+# no fucking shit, sherlock
+
+Voices: "*whisper*, *whisper*"
+
+: "Eh?"
+
+Voices: "*WHISPER*, *WHISPER*"
+
+: Sounds like it's coming from right... over..."
+
+: "Here."
+
+: "Yup, there they are."
+
+[Enter: Ruri (annoyed)]
+[Enter: Honoka (annoyed) WITH PREVIOUS]
+
+Ruri: "The boundary was clearly defined."
+
+[Ruri: angry]
+
+Ruri: "Please refrain from placing your research materials on my side of the table."
+
+[Honoka: angry]
+
+Honoka: "Your side of the-?"
+
+[Honoka: annoyed]
+
+Honoka: "I was here first, this whole table is mine!"
+
+: "....and they're bickering again."
+
+Ruri: "With all due repect..."
+
+[Ruri: explain]
+
+Ruri: "And perhaps a bit less thereof..."
+
+[Honoka: angry]
+
+Ruri: "All roperty in this institution is public..."
+
+[Ruri: explain-2]
+
+Ruri: "And furthermore-"
+
+Honoka: "Not what I meant and you know it!"
+
+Makoto: "Ah, I can come back later if you need me to..."
+
+[Ruri: surprised]
+[Honoko: surprised]
+
+Ruri: "Oh! Greetings, Makoto!"
+
+Honoka: "What's up?"
+
+Makoto: "Hey."
+
+[Ruri: explain]
+
+Ruri: "I am gald that you've arrived."
+
+Ruri: "Would you mind explaining to miss oh-so-logical here the rules regarding a line on the table?"
+
+[Honoka: annoyed]
+
+Makoto: "The rules whating the what now?"
+
+: "This is beyond ascenine."
+
+Honoka: "Don't be absurd."
+
+Honoka: "Explain to HER just how public property works."
+
+[Honoka: explain]
+
+Honoka: "She can't just say 'oh this is mine' and then have the expectation of the lack of molestation!"
+
+Makoto: "WOAH there!"
+
+[Honoka: annoyed]
+
+Honoka: "I meant as in disturbing it, ugh. Go on, tell her!"
+
+Makoto: "You can't be serious."
+
+Makoto: "Can't you work this out on your own?"
+
+Ruri: "I have been attempting to participate in just such a course of action for the past ten
+minutes! To no avail!"
+
+: "Yes, I'm very sure that you think you did."
+
+Honoka: "That's a load of garbage!"
+
+Honoka: "You've just been spouting a bunch of nonsense!"
+
+[Honoka: huff]
+
+Honoka: "You're the one who's not listening to reason!"
+
+: "What. This is so ridiculous."
+
+Ruri: "Well, come on then! You're a party in the neutral space."
+
+[Ruri: explain]
+
+Ruri: "You can provide arbitration for this."
+
+[Ruri: normal]
+[Honoka: normal]
+
+Honoka: "Yeah, who's right here?"
+
+: "This is insane! I thought these two were supposed to be collaborating."
+
+# he has no reason to think this. Tone down the fighting earlier to make this the case
+
+Honoka: "Well?"
+
+: "Children, both of them."
+
+[Choice]
+* "Honoka makes sense.": GO TO ch1-library-honoka
+* "Ruri raises a good point.": GO TO ch1-library-ruri
+* "You're both wrong.": GO TO ch1-both-wrong
+
