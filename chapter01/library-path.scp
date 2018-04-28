@@ -1,0 +1,46 @@
+(Section: library-path-1)
+
+Makoto: "I think I'll take you up on that, Honoka."
+
+[Ruri: happy]
+[Honoka: happy]
+
+Makoto: "I'll see you at the library!"
+
+Ruri: "Hooray! Then, until the aforementioned time, I shall depart."
+
+[EXIT: Ruri]
+
+Honoka: "Yeah... I'm off too. See you then."
+
+[EXIT: Honoka]
+
+: "It'll be good to get a head start on my homework."
+
+(GOTO: day-1-common)
+
+(Section: library-path-2)
+
+: "All right! Off to the library."
+
+[Scene: DISSOLVE TO library]
+
+# have a better scene shift, go through the roads and stuff
+# don't just jump straight to library
+
+: "..."
+
+: "It's pretty nice out today."
+
+: "Perfect weather for walking."
+
+: "You can almost hear the different parts of nature, whispering amongst themselves."
+
+: "..."
+
+: "Okay, here's the library."
+
+# probably dissolve to library at this point.
+
+: "I don't see Honoka or Ruri around though. They must be inside already."
+
