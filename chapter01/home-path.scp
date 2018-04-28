@@ -1,0 +1,422 @@
+(Section: home-path-1)
+
+Makoto: "Honestly, after everything that's happened, I think I'll just be heading home."
+
+Chitose: "It's all good!"
+
+[Chitose: smile]
+
+Chitose: "See you on Monday!"
+
+Ruri: "Farewell for now."
+
+Tsukiko: "See you later!"
+
+Honoka: "Buh-bye, Makoto."
+
+(FLAG: going-to-home)
+(GOTO: day-1-common)
+
+(SECTION: home-path-2)
+
+[Scene: FADE TO school-front]
+[Scene: DISSOLVE TO street]
+[Scene: DISSOLVE TO ayase-exterior]
+
+: "I wonder what everyone else is up to right now..."
+
+: "I kinda regret not hanging out with anyone on a Friday..."
+
+: "Oh well! This will give me time to get caught up on all that homework."
+
+[SFX: 
+
+[Scene: DISSOLVE TO ayase-living-room]
+
+Makoto: "I'm home!"
+
+[Enter: Miyuki]
+
+Miyuki: "Oh, hello."
+
+Makoto: "Yo."
+
+Miyuki: "All alone on a Friday night, huh?"
+
+Makoto: "Something like that."
+
+Makoto: "I've got a lot to do for next week, so I figured I'd get started on it."
+
+Miyuki: "Well, if you've got nothing better to do, I was planning on grabbing some snacks and having a movie night."
+
+Miyuki: "You in?"
+
+[Choice]
+* "I'm too tired.": GO TO reject-imouto-1
+* "Sounds fun.": GO TO imouto-movies-1
+
+(Section: reject-imouto-1)
+
+Makoto: "No hate, sis, but I'm pretty tired after the week I've had."
+
+Makoto: "I think I might just get in an early night."
+
+[Miyuki: surprised]
+
+Miyuki: "An early night?"
+
+Miyuki: "You?"
+
+: "Ouch."
+
+[Miyuki: normal]
+
+Miyuki: "I thought you were a night owl, dude."
+
+Makoto: "Yeah, well, it's been a rough week."
+
+Makoto: "I'm amazed I didn't get sent to the office."
+
+: "Or worse..."
+
+Miyuki: "Aight, well, I'm gonna get started on these movies."
+
+Miyuki: "Good luck with the whole 'going to bed at 7:00' thing."
+
+: "Bitch."
+
+Makoto: "Yeah..."
+
+[Exit: Miyuki]
+[Scene: DISSOLVE TO makotos-bedroom]
+
+: "Ugh."
+
+: "Guess I'd better get started on that homework."
+
+[SFX: rustling-papers]
+
+: "Gah! I almost threw my bag on top of my MtC deck!"
+
+# mtc = Mystic: the collective ofc
+
+: "I'd be a real shame if I knocked it over before recording it..."
+
+: "..."
+
+: "You know, I really do need to test it out..."
+
+: "And I can always get my homework done tomorrow..."
+
+: "There'll be plenty of time!"
+
+: "Yeah, I'll do it tomorrow. First thing! I super promise!"
+
+: "I've waited on this deck for far too long!"
+
+(GOTO: ch1-common-sleep-1)
+
+(Section: imouto-movies-1)
+
+Makoto: "Actually, I could really use some unwinding."
+
+Makoto: "That sounds awesome."
+
+[Miyuki: happy]
+
+Miyuki: "Cool!"
+
+[Miyuki: frown]
+
+Miyuki: "But don't get the wrong idea. I'd be doing this on my own even if you weren't around!"
+# I cannot resist the tsundere. but maybe i should pull this out...
+
+[Miyuki: normal]
+
+Miyuki: "Lemme go grab some popcorn."
+
+[SFX: popcorn-prep]
+
+: "Man, Miyuki goes all out with her movie marathons..."
+
+: "Look at all this tech..."
+
+: "..."
+
+: "..!"
+
+: "Is... Is that a video cassette player?"
+
+: "That is so old school... but kind of cool! In a radical sort of way"
+
+[Scene: DISSOLVE TO CG-sibling-movies]
+(Description: front view of the couch, it's a dark room. The seats are lit up by the glow of the screen. Makoto and Miyuki
+are each seated in a seperate seat. Makoto's face is filled with shock and Miyuki is staring intently at the screen.)
+# important that they are in seperate seats.
+
+Movie: "Oh no! They're going to...!"
+
+Movie: "*maniacal laughter*"
+
+Movie: "Oh my god! It's alive!"
+
+Miyuki: "Kyaaaa!"
+
+[Scene: ayase-living-room]
+
+[Miyuki: afraid]
+[Miyuki: GO TO raise-up]
+[Miyuki: GO TO normal]
+
+Miyuki: "Scary...."
+
+Makoto: "Jeez! You hopping all over the place is scarier than the movie!"
+
+[Miyuki: angry]
+
+Miyuki: "Sh-shuddap... it's scary, okay?"
+
+Makoto: "It's kind of annoying."
+
+Miyuki (annoyed): "Well sorrrrrry!"
+
+Miyuki: "I'm doing my best here!"
+
+Makoto: "Can't you do better?"
+
+Miyuki: "Dude, you can leave if you don't like it!"
+
+: "Arg, you have waaaaay too many spines, sis."
+
+Makoto: "All right, all right, I'm sorry! Jeez..."
+
+[Miyuki: explain]
+
+Miyuki: "Look, I get scared easy, so if we do horror, it's gonna happen."
+
+[Miyuki: normal]
+
+Miyuki: "But to be honest I'm not super into this movie, so if you want, I guess we could watch something else."
+
+Makoto: "Oh my god, please. I can't take any more of this B-movie crap."
+
+# have an argument - Miyuki: what's wrong with b-movies?
+
+Makoto: "How about a nice action movie?"
+
+Miyuki (annoyed): "Okay fine. If you really want to."
+
+: "Jeez, you're the one who suggested it."
+
+: "If you didn't want it, you could just say so..."
+
+: "Okay here. This one looks pretty good."
+
+Miyuki (excited): "Oh! I actually haven't seen that one before!"
+
+: "See, you should have more faith in your brother..."
+
+Miyuki: "Quick, load it in!"
+# quick change: I am SOOOOOOOOOOOOO not gonna have miyuki ask makoto to 'quick, stick it in!'.
+
+: "..."
+
+: "Now let's see here... Oh god, how does this thing work again?"
+
+: "It has been forever since I used a VCR..."
+
+Miyuki: "You, uh, you doing okay there?"
+
+Makoto: "I got it, just gimme a minute."
+
+: "You just pop it in like this, right?"
+
+[SFX: vcr-eject]
+
+: "Well that's not right, it's supposed to take it in, not spit it back out..."
+
+Miyuki: "Oh my god, dude, just let me do it."
+
+Makoto: "I got it, I got it!"
+
+: "Okay, so it goes in this way..."
+
+[SFX: vcr-accept]
+
+: "Yesh! There we go."
+
+: "..."
+
+: "Nothing is happening..."
+
+Miyuki (smirk): "You have to press-"
+
+Makoto: "I said I got it, calm down!"
+
+[SFX: vcr-button]
+
+: "There we are!"
+
+[SFX: vcr-eject]
+
+Miyuki: "Seriously?! You just ejected it!"
+
+Makoto: "Well how am I supposed to know how to use this stupid thing?"
+
+Makoto: "It's a blast from the past, there's like a million buttons on here!"
+
+Miyuki: "There's five."
+
+Makoto: "Ugh, hang on, let me try again..."
+
+: "Okay, so I put the video in..."
+
+[SFX vcr-accept]
+
+: "Okay, and now..."
+
+Makoto: "Uh, Miyuki?"
+
+Miyuki: "Nuh-uh. You're so smart, you figure it out."
+
+: "Biiiiiiiiitch."
+
+: "Whatever, let's see here."
+
+: "Last time, I pushed this button here..."
+
+: "Oh. It's labeled 'Eject'."
+
+: "I, uh, I didn't see that before."
+
+: "Ah, there's the 'Play' button."
+
+[SFX: vcr-button]
+
+Miyuki (normal): "About time."
+
+: "Have I mentioned how unbelievably annoying you are?"
+
+Miyuki: "Hey, dude, move! You're blocking the screen!"
+
+[Scene: FADE TO ayase-living-room]
+
+[SFX: explosion]
+
+Makoto: "Yeah! Get 'em!"
+
+Miyuki: "Oh my god, how can you be entertained by this crap?"
+
+Miyuki: "All it is is guns and explosions."
+
+Makoto: "Well that's sort of the point."
+
+Makoto: "This one's pretty good so far though; the plot is pretty good."
+
+Miyuki: "But it's so predictable!"
+
+Makoto: "What? How?"
+
+Miyuki: "It's so obvious!"
+
+Miyuki (explain): "The girl who got the bomb planted on her is gonna switch sides..."
+
+Miyuki: "And then she's gonna give the good guy all the info on the bad guy agency thingie..."
+
+Miyuki: "And then he'll go there and fight the big boss guy."
+
+Miyuki (annoyed): "Probably blow up the place, too."
+
+Makoto: "..."
+
+Makoto: "How in the world can you know all that?"
+
+Miyuki: "Dude, it's like super obvious!"
+
+Makoto: "Well quit talking about it already... I can barely hear the movie."
+
+Miyuki: "Oh right, with the stunning dialog that it has."
+
+Miyuki (normal): "I'm gonna be right, you just watch."
+
+: "Yeah, whatever."
+
+: "Remind me to never watch movies with you again, sis."
+
+: "Just enjoy it for what it is..."
+
+: "..."
+
+: "Now there's a dude driving off a bridge in the movie. Nice!"
+
+[SFX: explosion]
+
+: "Woah!"
+
+[Scene: FADE TO ayase-living-room]
+
+: "Holy crap."
+
+: "I can't believe it, Miyuki predicted the entire movie!"
+
+Miyuki (smirk): "Haha, told ya I was right."
+
+Makoto: "How did you... do that? You were right about everything."
+
+Miyuki (pleased): "Like I said, it was pretty obvious."
+
+Makoto: "That was amazing!"
+
+Miyuki (embarassed): "Not really... action movies are pretty easy to guess at."
+
+Makoto: "How come you never told me you knew so much about movies?"
+
+Miyuki: "Eh? You never asked."
+
+[Miyuki: GO TO stand]
+
+Miyuki: "Well, it's getting kinda late."
+
+Miyuki: "I'd better head to bed."
+
+: "It's only 11:30!"
+
+Makoto: "It's the weekend, though!"
+
+Makoto: "This is the one time it's okay to stay up super late."
+
+Miyuki: "Ha, not for me. If I start going to bed late, it'll throw off my whole schedule."
+
+: "She's like clockwork. Though I suppose it is late for her."
+
+Makoto: "All right then. Goodnight."
+
+Miyuki: "'Night."
+
+[Exit: Miyuki]
+
+: "Since when has my sister been such a film buff?"
+
+: "I knew she kept herself shut up in her room a lot, watching movies..."
+
+: "I always just thought of her as something of a NEET-in-training..."
+
+: "Not really much use for predicting movies though."
+
+: "I mean, except for sucking the fun out of them."
+
+: "Whatever."
+
+: "I wonder what I should do now?"
+
+: "I suppose I could get an early start on that homework..."
+
+: "On the other hand... there's always tomorrow for stuff like that..."
+
+: "..."
+
+: "Wait, wasn't there a special stream on tonight for the new MtC release?"
+
+: "Ah, I can't miss that!"
+
+(GOTO: ch1-common-sleep)

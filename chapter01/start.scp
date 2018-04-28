@@ -1218,4 +1218,478 @@ Makoto: "Uh... Thanks... I think?"
 [Enter: Tsukiko WITH PREVIOUS]
 [Enter: Honoka WITH PREVIOUS]
 
+Tsukiko: "Ah, Chi, you're so awesome!"
+
 Chitose: "Haaa! Sportsmaster #1 shot, yay!"
+
+Tsukiko: "I really have no idea how you got so good this... When it comes to sports, I'm completely hopeless."
+
+Chitose: "Ohohoho~!"
+
+Chitose: "Well, young Tsukiko, I will explain this to you!"
+
+Honoka: "Oh boy, here we go again..."
+
+[Chitose: mock-upset]
+
+Chitose: "Silence! Do not interrupt the great SPORTSMASTER at her tale!"
+
+[Honoka: laugh]
+
+Honoka: "My mistake! Please, forgive me, oh exhaulted one."
+
+: "Ahaha! Sportsmaster Chitose shall not be balked!"
+
+Chitose: "Long ago, when I was a young girl..."
+
+: "You're STILL a young girl."
+
+Chitose: "...A very wise woman came to me."
+
+Tsukiko: "Woah! Really? Who?"
+
+[Honoka: laugh]
+
+Honoka: "That'd be her mother, right?"
+
+[Chitose: smart]
+
+Chitose: "Ah, young Honoka. So wise for someone so young."
+
+[Honoka: smirk]
+
+Honoka: "I'm a full three months older than you and you know it!"
+
+[Tsukiko: laugh]
+
+Tsukiko: "Ehehe! Yeah, it's true."
+
+[Chitose: explain]
+
+Chitose: "Anyways! Yeah, so pretty much it was probably all the extra-curricular stuff my mom put me into back in Jr. high."
+
+[Chitose: shrug]
+
+Chitose: "I've been doing this sorta thing for awhile."
+
+Tsukiko: "Well, yeah, but you're just so far beyond everyone!"
+
+[Tsukiko: smile]
+
+Tsukiko: "I think you're just better!"
+
+[Chitose: blush]
+
+Chitose: "Ehhh! Really, it's nothing special."
+
+[Chirose: normal]
+
+Chitose: "I'm telling you, anybody could do it with enough experience."
+
+Ruri: "Humbleness becomes a Child of Magic, but you really do appear to be in possesion of more latent ability than the average person."
+
+[Chitose: confused]
+
+Chitose: "Uhm... thanks, Ruri..."
+
+[Chitose: smile]
+
+Chitose: "I think!"
+
+[Ruri: embarassed]
+
+Chitose: "So anyways, I was thinking of taking a trip down to the shirne today after school."
+
+[Chitose: normal]
+
+Chirose: "Do any of you guys wanna come with?"
+
+[Tsukiko: happy]
+
+Tsukiko: "Ah, that sounds like a lot of fun! I haven't been there in awhile!"
+
+[Tsukiko: explain]
+
+Tsukiko: "I wanted to get down there soon anyways... I'd love to come."
+
+[Chitose: normal]
+
+Chitose: "Oh! Is it about..."
+
+[Tsukiko: embarassed]
+
+Tsukiko: "Yeah..."
+
+[Chitose: smile]
+
+Chitose: "Alrigth! It's a date, then!"
+
+[Chitose: GO TO flip]
+
+Chitose: "How about the rest of you guys?"
+
+[Honoka: normal-2]
+
+Honoka: "Ah, unfortunately, I have to attend the library tonight for studying."
+
+[Ruri: disgusted]
+
+Ruri: "How sad. I must as well."
+
+[Ruri: angry]
+
+Ruri: "It's truly unfortunate that we only have the one library."
+
+[Honoka: huff]
+
+Honoka: "If you'll excuse me, I must get to class."
+
+[Honoka: angry]
+
+Honoka: "Ruri, don't mess with me right now."
+
+# margin notes: honoka's tone gets too harsh too fast, need to fix. turn this into a real fight, not just animosity
+
+[Exit: Honoka TO LEFT QUICKLY]
+
+[Ruri: suprised]
+
+Ruri: "Well, then."
+
+: "Seriously. Did Honoka get up on the wrong side of the bed or something?"
+
+[Ruri: normal]
+
+Ruri: "Perhaps I should go and offer my apologies."
+
+[Exit: Ruri TO LEFT SLOWLY]
+
+[Chitose: afraid]
+
+Chitose: "Or not.... I think something like that might just annoy her!"
+
+[Chitose: determined]
+
+Chitose: "Hey, wait up, Ruri!"
+
+[Exit: Chitose TO LEFT QUICKLY]
+
+[Tsukiko: smile]
+
+Tsukiko: "I guess it's just us two now!"
+
+: "Are you kidding?! There's no way I'm missing out on lunch."
+
+Makoto: "For now. C'mon, let's get to the cafeteria before they close!"
+
+[Tsukiko: afraid]
+
+Tsukiko: "You think they will? We better hurry!"
+
+[Exit: Tsukiko TO RIGHT]
+
+[Scene: DISSOLVE TO cafeteria]
+[Enter: Honoka WITH PREVIOUS]
+[Enter: Chitose WITH PREVIOUS]
+
+Honoka: "Oh, Makoto. You finally made it."
+
+Chitose: "Hiii Makoto!"
+
+[Chitose: determined]
+
+Chitose: "I love these friday feasts so much!"
+
+: "It is nice of the school to provide food Fridays."
+
+: "It's not usually too bad either."
+
+Makoto: "What do we got on the menu today?"
+
+[Chitose: smile]
+
+Chitose: "Calamari sushi! Yay!"
+
+Honoka: "With soup if desired."
+
+Honoka: "Though I wonder whether two choices is really enough to please everybody."
+
+Chitose: "It doesn't really matter to you, though, does it?"
+
+Chitose: "I mean, you always pack your own lunch no matter what."
+
+: "It's true. Honoka has some cheese rice balls today, along with some spring water."
+
+: "Spring water!? Where do you get off buying expensive stuff like that?"
+
+: "I didn't think she was that rich..."
+
+Honoka: "They usually have three options. I just feel as though somebody might become annoyed."
+
+[Scene: DISSOLVE TO cafeteria]
+
+: "Nom-nom-nom!"
+
+: "This food is so good!"
+
+# margin note: more detail
+
+Makoto: "I don't know how you can reject this!"
+
+Makoto: "The chef's here are fantastic!"
+
+[Honoka: frown]
+
+Honoka: "I just like putting in that personal touch, you know?"
+
+Honoka: "There's something to be said for individual food perparation."
+
+: "Says the girl who buys friggin' spring water."
+
+Makoto: "If you say so."
+
+[SFX: munch-munch]
+
+Makoto: "But you'll never convince me to give up on Friday feasts!"
+
+: "She's seriously not right in the head to even consider not going for this."
+
+[Honoka: smile]
+
+Honoka: "To each his own."
+
+: "And to my own I shall go. So yummy!"
+
+[Enter Ruri]
+
+# above notation: she should be between chitose and honoka]
+
+[Ruri: flip] # towards Honoka, looking at her
+[Ruri: GO TO right]
+[Chitose: GO TO left]
+
+# they are switching places, Ruri doesn't want to be near Honoka
+
+Ruri: "Wrong seat."
+
+[Honoka: angry]
+
+Chitose: "Ah, don't worry, Ruri! You can take mine."
+
+: "Disaster averted."
+
+: "I guess those two got into a particularly bad spat."
+
+[Enter: Tsukiko FROM right]
+
+[Chitose: surprised]
+
+Chitose: "Huh? You didn't get the sushi, Tsukiko?"
+
+Tsukiko: "Nuh-uh. Squid makes me feel all yucky."
+
+[Honoka: surprised]
+
+Honoka: "Wait. You don't like squid?"
+
+Honoka: "How?"
+
+[Tsukiko: embarassed]
+
+Tsukiko: "Uh... I dunno. It just doesn't sit well with me..."
+
+[Tsukiko: explain]
+
+Tsukiko: "I think I might be alergic or something."
+
+Makoto: "That's terrible!"
+
+Makoto: "It's horribly unfair!"
+
+Makoto: "I can't believe that you've been deprived of such deliciousness!"
+
+Makoto: "What a cruel world this is!"
+
+[Tsukiko: smirk]
+
+Tsukiko: "It's not that delicious to me, though."
+
+: "Okay maybe not that cruel."
+
+Chitose: "I think you've made up for it with the soup though!"
+
+[Chitose: smile]
+
+Chitose: "That's a whole lot!"
+
+[Tsukiko: embarassed]
+
+Tsukiko: "Yeah, I'm really hungry today."
+
+Tsukiko: "I guess PE must have really worn me out..."
+
+: "It's 5 bowls of soup, Tsukiko. That's not normal even if you've just finished climbing Mt Fuji."
+
+[Tsukiko GO TO bend-down]
+[Tsukiko: confused]
+
+Tsukiko: "Eh?"
+
+[Tsukiko GO TO stand]
+
+[Tsukiko: explain]
+
+Tsukiko: "This bowl isn't at the same level as the others!"
+
+Makoto: "Wha....?"
+
+Makoto: "Is it that big of a deal?"
+
+Tsukiko: "I mean...."
+
+[Tsukiko: normal]
+
+Tsukiko: "It's not... but what if everybody had a bowl with a lower level?"
+
+: "I'm pretty sure no one would care but you, Tsukiko."
+
+Chitose: "Uh.... I don't think it matters too much, right?"
+
+[Tsukiko: angry]
+
+Tsukiko: "It does! That's a lot of soup lost if you add up everybody's!"
+
+[Tsukiko: explain]
+
+Tsukiko: "Inefficiencies like that creep up faster than you might think."
+
+: "That's still just a bit over the top..."
+
+[Chitose: smile]
+
+Chitose: "Sure, sure, if you say so, Tsu-tsu!"
+
+[Scene: DISSOLVE TO after-school]
+[Enter Honoka WITH PREVIOUS]
+[Enter Chitose WITH PREVIOUS]
+[Enter Ruri WITH PREVIOUS]
+
+
+[Chitose: stressed]
+
+Chitose: "Haaaaa... I have too much homework..."
+
+Makoto: "It does seem a bit excessive."
+
+Makoto: "Are... are you gonna be able to carry all that home?"
+
+[Honoka: explain]
+
+Honoka: "Oh, don't be so overdramatic. I'm sure it's no more than is possible."
+
+[Chitose: stressed-2]
+
+Chitose: "Well, that doesn't mean I have to like it!"
+
+[Enter: Tsukiko (sick) FROM LEFT]
+
+Tsukiko: "Uggghhhh...."
+
+: "Wow, she does not look good."
+
+[Chitose: sad]
+
+: "Awww, Tsukiko... are you still feeling sick?"
+
+Tsukiko: "I... I couldn't let it all go to waste..."
+
+Tsukiko: "I had to finish it..."
+
+Makoto: "I tried to warn you... Five bowls is too many!"
+
+[Tsukiko: sad]
+
+Tsukiko: "But... but I was so hungry..."
+
+[Tsukiko: sad-2]
+
+Tsukiko: "I really thought I could handle it!"
+
+Honoka: "You're eyes are bigger than your stomach."
+
+[Tsukiko: sick]
+
+Tsukiko: "Huuuuuuuuuuuu...."
+
+[Tsukiko: normal]
+
+Tsukiko: "Hey, Chi, did I hear you say you had a bunch to do?"
+
+[Chitose: angry]
+
+Chitose: "Yeah!"
+
+[SFX: paper-thud]
+
+Chitose: "Look at all this!"
+
+: "Careful! You could kill someone with a stack that big."
+
+[Chitose: sad]
+
+Chitose: "It's not faaaaiiir."
+
+Tsukiko: "That's awful!"
+
+[Tsukiko: worried]
+
+Tsukiko: "Oh no, does that mean you're gonna be skipping the shrine?"
+
+Chitose: "Of course not!"
+
+[Chitose: explain]
+
+Chitose: "My Saturday is totally free."
+
+[Chitose: smirk]
+
+Chitose: "I'll just do my homework then."
+
+[Tsukiko: happy]
+
+Tsukiko: "Yay!"
+
+[Tsukiko: normal]
+
+Tsukiko: "I was afraid I might have to go by myself!"
+
+[Chitose: determined]
+
+Chitose: "I would never let my friends down!"
+
+[Chitose: normal]
+
+Chitose: "Let's meet up after clubs."
+
+[Chitose: explain]
+
+Chitose: "I should be good to go at like 5:30."
+
+Tsukiko: "Okay. Meet you at the main gate?"
+
+[Chitose: smile]
+
+Chitose: "Sounds good to me!"
+
+[Chitose: normal]
+
+Chitose: "What about you, Makoto? I never got a chance to ask you."
+
+Chitose: "Are you coming too?"
+
+Makoto: "Ahhh...."
+
+[Choice shrine-choice]
+* "Sure, I'll come with!": GO TO shrine-path-1
+* "I need to study at the library.": GO TO library-path-1
+* "I want to go home.": GO TO home-path-1

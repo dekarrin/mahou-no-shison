@@ -1,0 +1,285 @@
+(Section: shrine-path-1)
+Makoto: "Yeah, I'll tag along! I haven't been to the shrine in forever."
+
+[Chitose: happy]
+[Tsukiko: happy]
+
+Tsukiki: "Awesome! I'll see you guys after school!"
+
+: "It will be nice to get some quiet time."
+
+: "It's been a hectic week."
+
+(FLAG: going-to-shrine)
+(GOTO: day-1-common)
+
+(section shrine-path-2)
+
+[Scene: DISSOLVE TO school-front-door]
+
+[Enter: Tsukiko (stare-at-ground) FROM LEFT]
+
+Makoto: "Hey, what's up, Tsukiko?"
+
+[Tsukiko: suprised]
+
+Tsukiko: "Oh, hi, Makoto."
+
+Makoto: "Have you seen Chitose?"
+
+Tsukiko: "Not yet. She should be here soon."
+
+: "Guess it's just me and and her until then."
+
+Makoto: "Sooooooo..."
+
+[Tsukiko: normal]
+
+Makoto: "Weather sure has been nice lately, huh?"
+
+[Tsukiko: explain]
+
+Tsukiko: "Yeah, I guess."
+
+: "..."
+
+: "Not much for conversation, this one."
+
+Makoto: "Ah, so..."
+
+[Tsukiko: normal]
+
+Makoto: "Couldn't help but notice Chitose talking to you from before..."
+
+[Tsukiko: worried]
+
+Makoto: "Was there something you needed to do at the Shrine?"
+
+# jesus christ Makoto, pry much? Need to make this convo flow better
+
+[Tsukiko: normal]
+
+Tsukiko: "Oh! Well, yeah, I have some things I like to check up on every now and then."
+
+: "\"Check up on\"? It's a shrine..."
+
+Tsukiko: "How about you?"
+
+Makoto: "I just need to get some reflection time in. It's been pretty rough this week."
+
+# that sounds fucking stupid. need a better answer.
+
+[Tsukiko: smile]
+
+Tsukiko: "That's true. It's been pretty terrible."
+
+Makoto: "I mean, I know they're trying to prepare us for graduation and all, but jeez."
+
+# have makoto talk about clubs and being busy; expand this section
+
+[Tsukiko: angry]
+
+Tsukiko: "Yeah, really! If this keeps up, I'm not even gonna be able to finish my kimono..."
+
+[SFX: tsukiko-sigh]
+[Tsukiko: sad]
+
+Tsukiko: "And I really want to in time for Christmas..."
+
+# potential time contradiction... does graduation happen around christmas? look it up. Adapt story if not
+# (either move graduation and refer to it earlier or else change the target kimono completion date <probably later>)
+
+Chitose: "Oh? Why is that, Tsu-Tsu?"
+
+[Enter: Chitose FROM LEFT]
+
+Chitose: "Ya got someone special you wanna show it off to?"
+
+[Tsukiko: embarassed]
+
+Tsukiko: "I- no- I- um!"
+
+[Chitose: laughing]
+
+Chitose: "Ah, I'm just teasing you."
+
+[Tsukiko: relief]
+
+[Chitose: smile]
+
+Chitose: "Hiiii~ Makoto!"
+
+Makoto: "Hey, Chitose. How're ya doing?"
+
+[Chitose: normal]
+
+Chitose: "I'm okay. Sorry about the delay."
+
+Chitose: "It's kinda hard to carry all these papers!"
+
+Makoto: "You know, we could stop by your place so you can drop it off, if you want to."
+
+Chitose: "Oh my gosh! That would be amazing!"
+
+[Chitose: worried]
+
+Chitose: "Are you sure though? It's sorta out of the way."
+
+Makoto: "I thought it was only like a block out of the way."
+
+Chitose: "Well yeah but I don't wanna put you out of your way."
+
+# if i end another sentence with "way" i'm going to kill myself. fix that shit.
+
+Chitose: "Is it okay with you, Tsukiko?"
+
+Tsukiko: "Sure! I don't want you to hurt yourself..."
+
+[Chitose: smirk]
+
+Chitose: "Why, Tsu-tsu! Don't tell me you don't believe in the power of the great Satou?"
+
+[Chitose: happy]
+
+Chitose: "These bags are but grains of sand to me."
+
+[SFX: kick-thud]
+
+Tsukiko: "They sure don't feel like grains of sand."
+
+[Chitose: angry]
+
+Chitose: "Hey, don't kick my textbooks!"
+
+[Chitose: sad]
+
+Chitose: "You'll wound them."
+
+[SFX: tsukiko-laugh]
+[Tsukiko: smile]
+
+Tsukiko: "Sorry Chitose."
+
+Tsukiko: "I didn't mean to scatter your grains."
+
+# what the fuck am i doing with this stupid grains joke?
+
+[Chitose: smile]
+
+Chitose: "No problem! I shall merely gather them up for transportation!"
+
+[SFX: chitose-grunting]
+
+Chitose: "Heave! Ho!"
+
+Chitose: "There we are! Let's go~!"
+
+# forgot to make her put DOWN the bag to begin with; fix
+
+[Scene: DISSOLVE TO shrine-forest-path]
+
+Chitose: "Soooooooo... Tsukiko! How's your project going?"
+
+Tsukiko: "You mean the Kimono? I've only just started planning it."
+
+[Tsukiko: smile]
+
+Tsukiko: "I want it to be perfect!"
+
+Makoto: "Knowing you, it probably will be."
+
+Makoto: "Aren't you like, the president or something of the sewing club?"
+
+[Tsukiko: embarassed]
+
+Tsukiko: "V-vice president, technically..."
+
+Tsukiko: "B-b-but I'm really not that good! Sayuri puts out twice as many things as I do..."
+
+Tsukiko: "And I'm pretty sure that Azuna's stitches end up coming out three times faster..."
+
+Chitose: "Yeah, but their stuff is always so shoddy!"
+
+[Chitose: explain]
+
+Chitose: "Like, you touch it and it falls apart!"
+
+[Chitose: smile]
+
+Chitose: "Your clothes are so durable, you could go camping in them!"
+
+[Tuskiko: horrified]
+
+Tsukiko: "That! I mean! Chitose, you can't just go camping in a kimono!"
+
+[Chitose: laugh]
+
+Chitose: "I'm only joking!"
+
+[Tsukiko: blush]
+
+Tsukiko: "Oh! Right. Heheh."
+
+Makoto: "I mean, your uniform there, that's your handiwork, ain't it?"
+
+[Tsukiko: normal]
+
+Tsukiko: "It is, but it's not because I think I'm better than the manufactuerers..."
+
+Tsukiko: "I just don't like how the inseams line up is all..."
+
+Makoto: "You're good enough to make something like that. Accept the praise already!"
+
+Tsukiko: "I suppose..."
+
+Chitose: "It is! You gotta learn to accept praise once in awhile..."
+
+Tsukiko: "You're one to talk about that."
+
+[Tsukiko: smile]
+
+Tsukiko: "What with you being a star athlete and saying it's 'only due to practice'!"
+
+[Chitose: embarassed]
+
+Tsukiko: "You'll be carrying the softball team to victory for sure!"
+
+Chitose: "It... It really is just dedication though..."
+
+Makoto: "Man, c'mon. You're like the star player."
+
+Chitose: "Fuuuu, I'm sure they would be okay without me."
+
+Tsukiko: "No way! Remember that game you had to sit out due to being sick?"
+
+Makoto: "Ah man, I do! It was a slaughter... we got completely crushed."
+
+Chitose: "They were just better than us! We still would have lost if I had been there..."
+
+Makoto: "I dunno. They never came close to us before that time."
+
+Makoto: "I think I'm with Tsukiko on this one."
+
+Chitose: "Sure, whatever you say..."
+
+[Chitose: laugh]
+
+Chitose: "I guess we could both be a little less humble, huh?"
+
+: "Yes... yes, you could..."
+
+Makoto: "There's nothing wrong with being humble, but you take it to the next level."
+
+: "Seriously... just accept it when credit is due..."
+
+Tsukiko: "Maybe that's true for Chi, but I still don't think it matters too much in my case."
+
+[Chitose: determined]
+
+Chitose: "Ah, whatever, Tsukiko. No matter what you say, I still think you're awesome."
+
+[Tsukiko: smile]
+
+Tsukiko: "Heee. You too."
+
+(GOTO: temple-path-1-shrine-front)
