@@ -19,6 +19,8 @@ Honoka: "Yeah... I'm off too. See you then."
 
 (GOTO: day-1-common)
 
+
+
 (Section: library-path-2)
 
 : "All right! Off to the library."
@@ -179,5 +181,321 @@ Honoka: "Well?"
 [Choice]
 * "Honoka makes sense.": GO TO ch1-library-honoka
 * "Ruri raises a good point.": GO TO ch1-library-ruri
-* "You're both wrong.": GO TO ch1-both-wrong
+* "You're both wrong.": GO TO ch1-library-both-wrong
 
+
+
+(Section: ch1-library-honoka)
+
+Makoto: "I think you're both acting like children..."
+
+[Ruri: angry]
+[Honoka: angry]
+
+Makoto: "...but, for what it's worth, I think Honoka is making the right choice in trying to
+separate the workspaces."
+
+[Ruri: surprised]
+
+Ruri: "What? How can you say such a thing?"
+# could we not do the direct translation of "sonna koto..." plox
+
+[Honaka: happy]
+
+Honoka: "Well, clearly, he has common sense."
+
+[Honaka: smug]
+
+Honoka: "Unlike a certain someone."
+
+Ruri: "Grr!"
+
+Makoto: "Look, it's difficult to work without predefined spaces."
+
+: "Well, not for normal people, but whatever."
+
+Makoto: "That would make sense even if you two didn't hate each other."
+
+Ruri: "..."
+
+Makoto: "Ruri, c'mon."
+
+[Ruri: explain]
+
+Ruri: "Fine. I concede. I shall keep my belongings to my 'side'."
+
+[Ruri: normal]
+[Honoka: normal]
+
+(GOTO: ch1-library-path-3)
+
+
+
+(Section: ch1-library-ruri)
+
+Makoto: "You guys are both being super immature..."
+
+[Ruri: annoyed]
+[Honoka: annoyed]
+
+Makoto: "But if I have to choose, I guess I'd say that Ruri's in the right, here."
+
+[Honoka: angry]
+
+Honoka: "Are you serious?"
+
+[Ruri: smug]
+
+Ruri: "I should think so, Makoto is a reasonable person."
+
+Honoka: "Whatever!"
+
+Makoto: "Sorry, Honoka, but that's how it is."
+
+Makoto: "I really don't care that much, but c'mon, it's a public library."
+
+Makoto: "No one has the right to claim any particular area."
+
+: "Of course, most people never feel the need to, because most normal people would actually have
+respect for another's space..."
+
+Honoka: "..."
+
+Makoto: "Honoka, think about it. What if everyone started going around grabbing all the spaces?"
+
+Makoto: "It'd be total anarchy!"
+
+: "Actually, no it wouldn't, but..."
+
+: "I'll say anything to get these two to shut up!"
+
+[Honoka: annoyed]
+
+Honoka: "Ugh! Whatever. I don't even care anymore."
+
+[Honoka: normal]
+[Ruri: normal]
+
+# more interaction from ruri in this section, maybe?
+
+(GOTO: ch1-library-path-3)
+
+
+
+(Section: ch1-library-both-wrong)
+
+Makoto: "Oh, no you don't! I'm not taking sides in this."
+
+[Ruri: angry]
+[Honoka: angry]
+
+Makoto: "Aren't you two supposed to be collaborating?"
+
+Makoto: "How are you supposed to get anything done when you spend all your time fighting?"
+
+Ruri: "This was not my personal first choice!"
+
+Honoka: "Mine either! Not our fault that our adviser thought it would be good for us to work together!"
+
+# mention this ^ well in advance. currently just dropping that info on the reader
+
+Makoto: "Did you think that maybe she has point?"
+
+[Ruri: annoyed]
+[Honoka: annoyed]
+
+Makoto: "You two fight so much!"
+
+: "What am, I preacher now? This sounds like a sermon..."
+
+Makoto: "C'mon, guys, this isn't the way that children of magic should be acting... just grow up,
+already!"
+
+[Ruri: pissed]
+[Honoka: pissed]
+
+: "Might have gone a little far with that one..."
+
+Honoka: "Oh yeah? And who are you to tell us how to act, Mr. Moral Highground?"
+
+Ruri: "You're certainly in no position to judge, what with your lackluster academics."
+
+: "Well... well that's true."
+
+: "But you don't have to bring it up so casually like that!"
+
+Makoto: "That's... that's besides the point!"
+
+Honoka: "Eh, not really!"
+
+[Honoka: annoyed]
+
+Honoka: "But whatever. I ain't gonna try to argue about it with YOU."
+
+Ruri: "It seems you're on your own side."
+
+[Ruri: annoyed]
+
+Ruri: "And that side is full of refuse."
+
+[Honoka: normal]
+[Ruri: normal]
+
+: "...Well, at least they're both mad at me instead of each other..."
+
+: "I guess that's progress, technically."
+
+(GOTO: ch1-library-path-3)
+
+
+
+(Section: ch1-library-path-3)
+
+: "Children, both of them. And I don't mean the magical kind!"
+
+Makoto: "What are you supposed to be working on, anyways?"
+
+[Honoka: excited]
+[Ruri: excited]
+
+Ruri: "Ah!"
+
+[Ruri: explain]
+
+Ruri: "It is a mock dissertation on the topic of discourse of discussion of the history of the
+children of magic!"
+
+# fix this section, feels too much like an exposition dump
+
+Makoto: "Uhh... huh?"
+
+[Honoka: explain]
+
+Honoka: "We're trying to dig down and present the story of our roots!"
+
+Makoto: "Eh? That's nothing new. Youkai and mystic powers; it's been drilled into us since first
+year!"
+
+Makoto: "I'm pretty sure I know the history of the children of magic better than that of Japan, by
+this point."
+
+[Honoka: smug]
+
+Honoka: "Ah, c'mon. Give us a little credit!"
+
+[Honoka: explain]
+
+Honoka: "We're going way over and above that sort of thing."
+
+[Honoka: normal]
+[Ruri: explain]
+
+Ruri (explain): "We are compailing a set of oral traditions and testimonies, as well as the primary
+and secondary sources..."
+
+Ruri (smile): "...in order to create a linked database of knowledge such that additional
+information is more easily accessible!"
+
+Makoto: "Come again?"
+
+[Ruri: normal]
+Honoka (explain): "We're grabbing a whole bunch of information and putting it together to show
+stuff that people might have missed before."
+
+: "Oh. So an intense history class. How boring!"
+
+Makoto: "Not gonna lie, that sounds super boring."
+
+Makoto: "Like I said, I've heard it all before."
+
+Honoka (smug): "You sure about that? Check this out."
+
+[SFX: papers-rustling]
+
+Honoka (normal): "Ah, Ruri, where did we put that section on the origins?"
+
+Ruri (surprised): "There are many. Which one are you referring to?"
+
+Honoka: "Ya know, the one we just put together."
+
+Ruri (normal): "Oh, that one."
+
+Ruri: "One moment. I believe I have your quarry right here..."
+
+[SFX: papers-rustling]
+
+Honoka: "Ah, thanks."
+
+Honoka (explain): "Look at this!"
+
+Honoka: "You know that one youkai that brought us the secret of magical transformation?"
+
+Ruri (annoyed): "Oh come now, Honoka. Of course he does. Everyone knows about the holy kitsune."
+
+Makoto: "It's fine, Ruri."
+
+: "This is history 101. I might not be the smartest, but I'm not THAT dumb."
+
+Makoto: "What about it?"
+
+Honoka: "Right, right! The one that granted the secret to the First, who granted it shelter?"
+
+Makoto: "Dude! I already told you I know what's up. Get to the point."
+
+Honoka: "Well it turns out that the whole reason that it needed shelter in the first place..."
+
+Honoka (smug): "...was because it'd pissed off the village chief."
+
+Ruri: "I mean, appearing as a woman and sneaking around stealing from the food stores will tend do
+that to a chief."
+
+: "...ah...that is actually new to me."
+
+Makoto: "Okay, I admit I didn't know that, but so what? It was a kitsune; it's what they do."
+
+Makoto: "It's not exactly an out-of-the-ordinary experience, certainly not for us."
+
+[Honoka: normal]
+
+Ruri (explain): "It IS important!"
+
+Ruri: "It means that the First used her abilities to protect something that she knew was being
+pursued in a manner that could be argued was fully righteoues from the village's perspective!"
+
+Makoto: "Eh?"
+
+Ruri: "The concepts of purity of mind clearly did not apply to that kitsune, who was able to
+continue in its existence with the help of the magic."
+
+: "That... is interesting actually... it contradicts some of what we've been taught."
+
+: "But still..."
+
+Makoto: "I see what you're saying, but that's like a special case. Youkai and humans are not the
+same."
+
+Honoka (explain): "That's true, but we still both hold some of the same divine substance that keeps
+us alive."
+
+Honoka (smile): "I have a hunch that all this might apply to humans, too. Especially with what the
+First was able to do."
+
+Ruri (roll-eyes): "Pfft."
+
+Makoto: "You disagree?"
+
+Ruri (explain): "I am highly suspect of her explaination. It goes against what we've been taught,
+and it goes against all of the rest of our history."
+
+Honoka (sad): "*sigh* Well, at this point it doesn't really matter what I think."
+
+Honoka: "We haven't found any records of the same thing happening in a human."
+
+# contradiction: story shows that the first almost certainly had it happen. obscure that a little more
+
+Ruri: "Natrually. Losing one's purity is the most expedient way to lose one's ability to practice
+magic."
+
+Ruri: "By natural means, that is."
+
+Makoto: "Hm..? What do you mean 'naturally'?"
