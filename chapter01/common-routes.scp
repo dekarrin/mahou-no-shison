@@ -28,3 +28,29 @@
 {
 	(GOTO: library-path-2)
 }
+
+
+(Section: ch1-common-home-after-club)
+
+[SFX: door-open]
+
+[Scene: DISSOLVE TO ayase-living-room]
+
+Makoto: "I'm home!"
+
+: "..."
+
+: "Eh? Is nobody home?"
+
+[SFX: tv]
+
+: "Oh, is someone in the living room?"
+
+# he is IN the living room, fix this
+
+[Scene: DISSOLVE TO ayase-living-room]
+[Enter: Miyuki WITH PREVIOUS]
+
+Miyuki: "Oh, hey, Makoto."
+
+Makoto: "Hey, what's up?"

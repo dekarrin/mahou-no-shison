@@ -25,10 +25,9 @@ Honoka: "Yeah... I'm off too. See you then."
 
 : "All right! Off to the library."
 
-[Scene: DISSOLVE TO library]
+[SFX: LOOP footsteps]
 
-# have a better scene shift, go through the roads and stuff
-# don't just jump straight to library
+[Scene: DISSOLVE TO road-to-library-1]
 
 : "..."
 
@@ -38,11 +37,23 @@ Honoka: "Yeah... I'm off too. See you then."
 
 : "You can almost hear the different parts of nature, whispering amongst themselves."
 
+[Scene: DISSOLVE TO road-to-library-2]
+
+: "I wonder if the library will have that one section on MtC..."
+
+[Scene: DISSOLVE TO road-to-library-3]
+
+: "I'll have to check that out, if I get the chance."
+
+: "I'd hate to miss it before they cycle it out!"
+
 : "..."
 
-: "Okay, here's the library."
+[Scene: DISSOLVE TO library-exterior]
 
-# probably dissolve to library at this point.
+[SFX: STOP footsteps]
+
+: "Okay, here's the library."
 
 : "I don't see Honoka or Ruri around though. They must be inside already."
 
@@ -118,7 +129,8 @@ Makoto: "Hey."
 
 Ruri: "I am gald that you've arrived."
 
-Ruri: "Would you mind explaining to miss oh-so-logical here the rules regarding a line on the table?"
+Ruri: "Would you mind explaining to miss oh-so-logical here the rules regarding a line on the
+table?"
 
 [Honoka: annoyed]
 
@@ -132,7 +144,8 @@ Honoka: "Explain to HER just how public property works."
 
 [Honoka: explain]
 
-Honoka: "She can't just say 'oh this is mine' and then have the expectation of the lack of molestation!"
+Honoka: "She can't just say 'oh this is mine' and then have the expectation of the lack of
+molestation!"
 
 Makoto: "WOAH there!"
 
@@ -295,7 +308,8 @@ Makoto: "How are you supposed to get anything done when you spend all your time 
 
 Ruri: "This was not my personal first choice!"
 
-Honoka: "Mine either! Not our fault that our adviser thought it would be good for us to work together!"
+Honoka: "Mine either! Not our fault that our adviser thought it would be good for us to work
+together!"
 
 # mention this ^ well in advance. currently just dropping that info on the reader
 
@@ -491,7 +505,8 @@ Honoka (sad): "*sigh* Well, at this point it doesn't really matter what I think.
 
 Honoka: "We haven't found any records of the same thing happening in a human."
 
-# contradiction: story shows that the first almost certainly had it happen. obscure that a little more
+# contradiction: story shows that the first almost certainly had it happen. obscure that a little
+# more
 
 Ruri: "Natrually. Losing one's purity is the most expedient way to lose one's ability to practice
 magic."
@@ -499,3 +514,302 @@ magic."
 Ruri: "By natural means, that is."
 
 Makoto: "Hm..? What do you mean 'naturally'?"
+
+Honoka (explain): "All the accounts we've found of those who lose their purity tell that they lose
+their magic, too."
+
+Honoka: "But we've seen references to some ways to continue to practice magic, even after purity is
+lost."
+
+Makoto: "Really? Like what?"
+
+Honoka (annoyed): "I'm not sure."
+
+Honoka: "They won't let us into those books."
+
+Ruri: "We have a pretty reliable guess that it's likely quite bad for one's sanity."
+
+Makoto: "Ah, I see."
+
+Makoto: "Sucks that they won't let you in the restricted area."
+
+Makoto: "I would have thought that if anybody were qualified enough for that, it'd be you two."
+
+Ruri: "I concur fully!"
+
+Ruri (annoyed): "It is frustrating to the utmost degree!"
+
+Honoka: "I hate to say, but Ruri's right. Every time we asked to be let in, the librarian just
+shooed us away. We're not just some kids, here! We're practically graduates!"
+
+Honoka (annoyed): "But nope. 'that section is off limits to students.'. And you know her, she's
+like a brick wall. There's no way to change her mind."
+
+# give the librarian a name
+
+Makoto: "Yeah... she's pretty stubborn."
+
+Makoto: "Well, at least the whole losing powers thing isn't something *we'll* have to worry about."
+
+# note: since dream was written first, it might feel like makoto should worry about it, but note
+# that the second dream takes place chronologically later
+
+Ruri (surprised): "I wouldn't be so sure of that."
+
+Ruri (explain): "A lot of the fallen ones were once shining examples of students."
+
+Ruri (embarassed): "And, um, additionally... well..."
+
+Makoto: "What? What is it?"
+
+Honoka (embarassed): "Uh, well, the thing is, almost all of the turned were dudes, dude."
+
+Honoka (explain): "Also, pretty much every single guy that's ever been a magic user eventually
+ended up turning."
+
+Honoka (embarassed): "In pretty spectacular fashion."
+
+Makoto: "What do you mean?"
+
+Honoka (explain): "They... they did some pretty messed-up stuff."
+
+Makoto: "Like what?"
+
+Honoka: "I would really rather not get into the specifics, at least not at a public place like
+this. It's pretty bad."
+
+Honoka (eyes-closed): "I will say that I'm starting to get why all the instructors are so hard on
+you."
+
+: "Oh... something like that, huh?"
+
+# right now this feels like a blatant case of not only tell-not-showing, but the reason for them
+# not giving more details feels weak.
+# give a better reason for the smartypants duo to not directly answer questions.
+# maybe have the librarian prowling around, checking up on them? something to make them not
+# comfortable talking about it.
+
+Makoto: "Maybe it's better you don't say... at least for now."
+
+Honoka (explain): "Yeah..."
+
+Ruri (normal): "Um, in the interest of furthering academic research throughout the masses, I would
+be pre-disposed to desire to explain such matters in greater detail."
+
+Ruri: "But just not at the present locus of time and place."
+
+Honoka: "Same, I wouldn't mind going into more detail... just not right here."
+
+Honoka: "If you're really interested, stop by when we have one of those study rooms."
+
+Makoto: "Can't you just grab one now?"
+
+Ruri (annoyed): "We have tried. The librarian requires them to be scheduled like two weeks in
+advance, it would seem."
+
+Makoto: "Ah, sounds like her."
+
+Honoka (shrugging): "Yeah, not much we can do there."
+
+[Ruri: normal]
+
+Honoka (normal): "Ugh. I'll keep looking for more info to confirm my suspicions, but at least in the
+meantime we're building up this repertoire of information."
+
+Ruri (happy): "At the very least, we can take satisfaction in the hope that our system will be of
+use to future researchers!"
+
+Makoto: "I'm sure it will be."
+
+Makoto: "I take back what I said before, this is some pretty interesting stuff."
+
+: "At least, the results are."
+
+: "I'm not sure I could handle the endless research. I'd probably fall asleep before I got through
+the first book!"
+
+Ruri (smile): "It makes me happy to know that you appreciate our efforts."
+
+Honoka (smug): "Wait until you see the final product. It's gonna be crazy good!"
+
+Ruri (annoyed): "I believe that he paid us a compliment. Would it be so much to ask that you
+graciously accept it?"
+
+Honoka (upset): "Well, I was trying to... before I was interrupted."
+
+: "Heeeeeeere we go again!"
+
+Makoto: "Uh, hey, much as I'd like to stay around and chat, there's a book I'd like to take a look
+at regarding the Collective... so I should really get going..."
+
+[Ruri: surprised]
+
+Honoka (surprised): "Oh? I thought you had homework to do. You're welcome to do your readings with
+us..."
+
+Makoto: "Uh, yeah, yeah! I totally will! I just gotta check this out quick; it's not gonna be there
+forever."
+
+# clue the reader into this beforehand
+
+Honoka: "Okay, then. See you in a few."
+
+Makoto: "Yeah, you too. Later, Ruri."
+
+Ruri: "Farewell for now."
+
+[Scene: DISSOLVE TO library-bookshelf]
+(Description: We see a floor to ceiling bookshelf that takes up most of the screen. The bookshelf
+does not quite reach one of the sides; there is a break in it, which reveals a window. We can see
+a view of the library's exterior through this window, illuminated by a late-afternoon sky.)
+
+[Exit: Ruri WITH PREVIOUS]
+[Exit: Honoka WITH PREVIOUS]
+
+: "Yeah, there is no way I'm gonna sit through another one of their bouts."
+
+: "..."
+
+: "I really should do assigned readings, though..."
+
+: "Ah, I'll do it in a minute. I just want to gloss through this section reeeeeeal quick."
+
+: "..."
+
+: "Nice! There's the pop culture section!"
+
+: "..."
+
+: "Holy crap, they've got more MtC books than I thought!"
+
+: "Now, let's see here... what should I look at first?"
+
+: "How 'bout this one?"
+
+[SFX: sliding-book]
+
+: "'The Collective: Effective Strategies through the Ages'."
+
+: "Though the ages? The games only been out for like 15 years! Pretentious much?"
+
+: "Looks pretty good though."
+
+: "Let's see..."
+
+: "..."
+
+[Scene: FADE TO black]
+[Scene: FADE TO library-bookshelf-sunset]
+(Description: the view is the same as before, but now the blue sky has shifted to the color of
+twilight, casting dark shadows on the exterior surroundings.)
+
+: "Whaaaaaaaaaaat! You mean you could get life-drain and flight?! Off a single card, with only a
+single magic pool cost?"
+
+: "No wonder they banned it. That's crazy over-powered."
+
+: "What they were thinking?"
+
+: "..."
+
+[Enter: Honoka]
+[Enter: Ruri WITH PREVIOUS]
+
+Honoka: "Yooooo Makoto?"
+
+Makoto: "...Hm?"
+
+Makoto: "Time to leave, dude."
+
+Makoto: "Yeah, yeah, just a sec."
+
+Ruri: "The library is currently in the process of terminating service for the night."
+
+Ruri: "Ergo, it is of rather high import that we depart forthwith."
+
+Makoto: "I... huh?"
+
+Ruri (eyes-closed): "This place is closing. We have to go."
+
+Makoto: "What, already?"
+
+Honoka: "Uh, yeah... it's been like 3 hours..."
+
+[Camera: PAN TO window AND ZOOM IN]
+
+: "Oh. It's later than I thought, but.. I guess it is late."
+
+[Camera: ZOOM OUT AND PAN TO center]
+
+Makoto: "Man, this place closes too early."
+
+Honoka: "It's Friday. They always close early on Fridays."
+
+[Honoka: eyes-closed]
+
+Honoka: "You would know this if you came here more than once a month."
+
+Makoto: "Fair point."
+
+[SFX: sliding-book]
+
+Makoto: "Okay, I'm ready. Let's head out."
+
+[Scene: DISSOLVE TO library-exterior]
+
+Honoka: "See you on Monday, Makoto."
+
+Ruri: "Yes, farewell until then."
+
+Makoto: "Bye, guys."
+
+[Exit: Ruri]
+[Exit: Honoka WITH PREVIOUS]
+[SFX: LOOP footsteps]
+
+[Scene: DISSOLVE TO road-to-library-3-twilight]
+
+: "I'm so glad I found that book!"
+
+: "I'm gonna have to try out some of those techniques."
+
+: "Combining Purple Abomination with Ghostly Echo would make my deck totally invincible to ground
+forces!"
+
+[Scene: DISSOLVE TO road-to-library-2-dusk]
+
+: "That book really did have some good info, even if it was a little on the stuffy side."
+
+: "I can't believe the author's style was so dry."
+
+: "They must be a really boring person, to write like that about something as cool as MtC."
+
+[Scene: DISSOLVE TO road-to-library-1-night]
+
+: "..."
+
+: "Ugh, I totally bailed on Ruri and Honoka."
+
+: "I feel kinda bad about that, but..."
+
+: "But I just can't handle all that negativity!"
+
+: "They were fighting over me complimenting their work, for crying out loud!"
+
+: "Who even does that?"
+
+[Scene: DISSOLVE TO road-to-school-night]
+
+: "It is pretty interesting, the stuff that they're working on."
+
+: "I sometimes wonder about the whole purity of mind thing."
+
+: "Especially with some of the crazy thoughts that cross my mind!"
+
+[Scene: DISSOLVE TO ayase-house-exterior-night]
+
+[SFX: STOP footsteps]
+
+: "Ah well. Best not to dwell on it too much, I suppose."
+
+(GOTO: ch1-common-home-after-club)
