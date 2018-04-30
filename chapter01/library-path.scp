@@ -17,6 +17,7 @@ Honoka: "Yeah... I'm off too. See you then."
 
 : "It'll be good to get a head start on my homework."
 
+(FLAG: going-to-library)
 (GOTO: ch1-common-ayase-club)
 
 
