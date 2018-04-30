@@ -55,3 +55,27 @@ Makoto: "I'm home!"
 Miyuki: "Oh, hey, Makoto."
 
 Makoto: "Hey, what's up?"
+
+Miyuki: "Not too much."
+
+Miyuki: "Decided I'd have a movie night."
+
+Makoto: "Uh, okay. You have fun with that."
+
+[Scene: DISSOLVE TO ayase-bedroom-hall]
+[Exit: Miyuki WITH PREVIOUS]
+
+[SFX: door-open]
+[Scene: DISSOLVE TO makotos-bedroom]
+
+: "Ugh, why am I so tired..."
+
+: "Must have been all that reading..."
+
+: "!"
+
+: "Aw crap! The assigned reading!"
+
+: "Oh, whatever. I'll just do it tomorrow. I can barely keep my eyes open..."
+
+(GOTO: ch1-common-sleep)
