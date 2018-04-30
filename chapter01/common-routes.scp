@@ -79,3 +79,206 @@ Makoto: "Uh, okay. You have fun with that."
 : "Oh, whatever. I'll just do it tomorrow. I can barely keep my eyes open..."
 
 (GOTO: ch1-common-sleep)
+
+
+
+(Section: ch1-common-sleep)
+
+[Scene: FADE TO black]
+
+: "zzz..."
+
+: "zzz..?"
+
+: "..."
+
+Voice: "Makoto..."
+
+: "...hm?"
+
+Voice: "Makoto, please..."
+
+[ENTER: Girl (underwear, hands-and-knees) DISSOLVE IN]
+
+Girl: "Master..."
+
+Makoto: "Gah! Who are you?"
+
+: "Oh god, you look... really good..."
+
+: "Put some clothes on!"
+
+Girl: "Master... I need..."
+
+Makoto: "Master? I ain't your master!"
+
+[Girl: lean-in]
+
+Girl: "Please, do me...."
+
+Makoto: "Uwaa!"
+
+: "D-do you?"
+
+Girl: "Take me now! Please!"
+
+: "I... I should turn away! But... but I can't..."
+
+[Girl: sad]
+
+Girl: "Why are you making me wait? Master, I need you!"
+
+: "No, this is... this is impure! This is wrong!"
+
+Makoto: "I..."
+
+: "!"
+
+: "Wh-why is my... why is THAT getting all..."
+
+[Girl: interested]
+
+: "S-stop it! Think about grandmas, soccer..."
+
+: "Girls playing soccer... girls playing with no clothes on..."
+
+: "Guwaa! NO! Soccer bad! Soccer bad!"
+
+Girl: "Oh, master, that looks so painful..."
+
+[Girl: seductive]
+
+Girl: "Here.... let me help you with that..."
+
+[Girl: GO TO downstage-1-center] # zooms her closer
+
+: "Sh-she's crawling towards me!"
+
+: "I... I gotta go right now."
+
+: "But aw man, she's sooo hot..."
+
+[Girl: GO TO downstage-2-center] # even closer
+
+: "Okay, seriously, Makoto. Time to go!"
+
+[Girl: reach-forward]
+
+: "Last chance! That's it. I'm leaving now!"
+
+: "..."
+
+: "So why am I still here?"
+
+[Scene: DISSOLVE TO cg-dreamgirl-on-makoto]
+(Description: The camera is just to the side of off-center, behind Makoto. The dream girl is on all
+fours, wearing nothing but underwear. She has her hand on the lip of Makoto's pants, and is pulling
+down.)
+
+: "GUAH! No! No! No! No!"
+
+[SFX: dream-end]
+[Scene: makoto-bedroom-night]
+
+: "Ah! No!"
+
+: "No! I-"
+
+: "Huh?"
+
+: "What?"
+
+: "A dream?"
+
+: "..."
+
+: "Ha! It was only a dream!"
+
+: "Right?"
+
+Makoto: "Illuminate."
+
+[SFX: kira-kira]
+[GFX: flash]
+[GFX: LOOP glowing]
+
+: "Ah, okay. Okay."
+
+: "Magic is still there."
+
+: "Everything is all right."
+
+: "..."
+
+[SFX: kira-out]
+[GFX: STOP glowing]
+
+: "..."
+
+: "What a weird dream."
+
+: "I can't believe I just stood there and let her come up to me."
+
+: "Who even was that, anyways?"
+
+: "I mean, it was just a dream... I could have let her keep going..."
+
+: "Arg! No! Bad thinking!"
+
+: "Stupid brain! Coming up with these crazy mindgames and all."
+
+: "I'm gonna have to work harder on this whole purity of mind thing."
+
+: "\"Impure thoughts lead to impure actions\", that's how it goes, right?"
+
+: "I should really talk to someone about this..."
+
+: "..."
+
+: "Ugh, what time is it anyways?"
+
+[SFX: rustling-bed]
+
+: "4:30?"
+
+: "Mmmmf, that's still too early for me."
+
+[SFX: footsteps]
+
+: "Not for Miyuki, I guess."
+
+: "That girl is not right, getting up when it's still night..."
+
+: "I can still sleep for a few more hours."
+
+: "..."
+
+: "Hmm..."
+
+: "Agh, I can't stop thinking about that weird girl."
+
+: "God, I waned to-"
+
+: "Okay, okay. That's enough. I need to calm down."
+
+: "I just need to find my inner peace..."
+
+: "Empty out my mind..."
+
+: "...of all distractions..."
+
+: "...nothing but..."
+
+: "...a blank dot..."
+
+: "...inside..."
+
+: "..."
+
+: "...zzz..."
+
+: "zzz"
+
+[Scene: EYECLOSE TO black]
+
+(GOTO: ch2-start)
