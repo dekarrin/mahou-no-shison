@@ -11,7 +11,7 @@ Tsukiki: "Awesome! I'll see you guys after school!"
 : "It's been a hectic week."
 
 (FLAG: going-to-shrine)
-(GOTO: day-1-common)
+(GOTO: ch1-common-ayase-club)
 
 (section shrine-path-2)
 
