@@ -282,4 +282,84 @@ Chitose: "Ah, whatever, Tsukiko. No matter what you say, I still think you're aw
 
 Tsukiko: "Heee. You too."
 
-(GOTO: temple-path-1-shrine-front)
+[Scene: shrine-entrance]
+(Description: Within the forest path, we see a path leading to midsize torii. Beyond the gate, a
+short way down the path, we can see the traditional-style building that makes up the shrine itself.)
+
+Chitose: "I love this place! It's so pretty and peaceful."
+
+Tsukiko: "It is!"
+
+[Tsukiko: eyes-closed]
+
+Tsukiko: "Sometimes I feel like I could stare into the forest for hours, listening to the trees."
+
+Makoto: "I think I have a bit of a hard time when it comes to trees. What do they have to say?"
+
+[Tsukiko: frown]
+
+Tsukiko: "Not very much, usually."
+
+[Tsukiko: smile]
+
+Tsukiko: "They don't really 'talk' talk... but if you focus closely, you can feel how they are."
+
+Chitose: "Careful, Tsu-tsu!"
+
+[Chitose: laugh]
+
+Chitose: "You keep talking like that, and before you know it, you'll find that your transformation
+is into a tree!"
+
+# make sure we have referred to the henshin aspect prior to this point
+
+[Tsukiko: laugh]
+
+Tsukiko: "I don't think it'll quite come to that!"
+
+[Tsukiko: normal]
+
+Tsukiko: "Not that there's anything wrong trees..."
+
+Chitose: "I dunno! You better watch yourself."
+
+Tsukiko: "I'm sure I'll be all right."
+
+: "Those two get along like a couple of sisters."
+
+[Scene: DISSOLVE TO shrine-water]
+(Description: We see a pool full of water with a nearby cup hanging from a post.)
+
+Chitose: "Hey-hey! Don't forget this!"
+
+[SFX: splash-splash]
+
+[Tsukiko: smile]
+
+Tsukiko: "Ah, I feel better all ready!"
+
+Makoto: "You look it!"
+
+Chitose: "Eheheheh! Wash away the dirty~ and bad~!"
+
+[SFX: splash-splash]
+
+: "Does she always sing during this?"
+
+[SFX: splash-splash]
+
+: "She's getting a far-off look in her eyes."
+
+Makoto: "Hey, Chitose! You okay?"
+
+[Chitose: smile]
+
+Chitose: "Aha! Nothing much. I could just feel the fish from the water."
+
+[Tsukiko: frown]
+
+Tsukiko: "Fish?! In the cleansing pool? Oh no!"
+
+[Chitose: laugh]
+
+Chitose: "Ah, sorry! I meant the fish that the water has touched before!"
