@@ -13,6 +13,8 @@ Tsukiki: "Awesome! I'll see you guys after school!"
 (FLAG: going-to-shrine)
 (GOTO: ch1-common-ayase-club)
 
+
+
 (section shrine-path-2)
 
 [Scene: DISSOLVE TO school-front-door]
@@ -363,3 +365,291 @@ Tsukiko: "Fish?! In the cleansing pool? Oh no!"
 [Chitose: laugh]
 
 Chitose: "Ah, sorry! I meant the fish that the water has touched before!"
+
+[Chitose: smile]
+
+Chitose: "I guess that probably didn't much make sense, did it?"
+
+# this is about to get awkward, stiff, and info dumpy. oh well fix later
+
+Tsukiko: "No, I get it. You're talking about the fish that are further upstream from where the water
+comes from."
+
+Chitose: "Ah, yeah! That's right."
+
+Tsukiko: "Hm, if Im a tree-girl, you're a fish-girl!"
+
+[Chitose: smile]
+
+Chitose: "I guess so, huh?"
+
+: "Fish, trees? These guys have no ambition."
+
+: "What about something cool, like a tiger or something?"
+
+: "Not that we have any of those nearby, but still...."
+
+: "A guy can hope."
+
+Chitose: "I think fish are pretty cool, though."
+
+# eh kills aliens and doesn't afraid of anything
+
+Chitose: "No matter what happens, they just keep swimming on and on."
+
+# sounds like Dory. This is not finding nemo. fix.
+
+Chitose: "Even if some die, they keep going, and the whole species keeps moving forward!"
+
+# this is not particular to fish
+
+Tsukiko: "Yeah, I think you're right!"
+
+[Chitose: laugh]
+
+Chitose: "You are not coming off those trees, are ya, Tsukiko?"
+
+[Tsukiko: smile]
+
+Tsukiko: "Aha, I can't! Just think about them!"
+
+Tsukiko: "They might not have speed, but they have the opposite! It's really hard to get them to
+move!"
+
+Tsukiko: "They're super steadfast, and won't budge an inch even in the worst circumstances."
+
+: "Well, except for lightning, and fire."
+
+: "Trees don't do so well against those..."
+
+Chitose: "I guess that sorta makes sense to me..."
+
+Chitose: "Bit I still like the go-go-ness of the fishies!"
+
+Chitose: "Hey, Makoto! Whachu think? Trees or fish?"
+
+Tsukiko: "Yeah, yeah! What's your essence gonna be?"
+
+Makoto: "Hm, well..."
+
+[Choice]
+* "Trees are pretty strong.": GO TO ch1-shrine-tsukiko
+* "Fish, 'cause they never stop'.": GO TO ch1-shrine-chitose
+* "Tigers are invincible!": GO TO ch1-shrine-both-wrong
+
+
+
+(Section: ch1-shrine-chitose)
+
+Makoto: "If I had to choose between the two, I'd have to go with trees."
+
+[Chitose: pout]
+
+Chitose: "Awww. How come?"
+
+Makoto: "I dunno. They just seem like they have more staying power, like Tsukiko was saying."
+
+[Tsukiko: smile]
+
+Makoto: "Plus they always just seem like they're wiser."
+
+Makoto: "They've usually been around for a long time, so they've seen a lot."
+
+Tsukiko: "It's true! It's part of why I like them, too!"
+
+Chitose: "Aw, you guys are crazy. Fish are the number one movers!"
+
+Makoto: "Yeah, but I think they miss a lot because of that."
+
+Tsukiko: "Mmhmm! Trees watch, wait, and experience the world around them!"
+
+Chitose: "Yeah, but they don't do much."
+
+Tsukiko: "That's not true! They just do it slower then we're used to."
+
+[Chitose: smile]
+
+Chitose: "Aw, whatever. Guess I'm all alone in my fishiness!"
+
+Tsukiko: "Sorry, Chi."
+
+[Chitose: laugh]
+
+Chitose: "It's okay. I'll just sit here in my island of fish."
+
+Chitose: "Trying to survive and wallowing in my loneliness!"
+
+[Tsukiko: laugh]
+
+Tsukiko: "You're silly, Chi!"
+
+[Chitose: goofyface]
+
+Chitose: "Bleh! How's that for silly!"
+
+[Tsukiko: laugh-2]
+
+Tsukiko: "Oh my god, stop! It's even worse!"
+
+Chitose: "Ehehe! Okaysies."
+
+[Tsukiko: normal]
+[Chitose: normal]
+
+(GOTO: shrine-path-3)
+
+
+
+(Section: ch1-shrine-chitose)
+
+Makoto: "Going between being stuck in the ground all day or swimming free?"
+
+Makoto: "That's easy! Fish for sure."
+
+[Tsukiko: thoughtful]
+
+Tsukiko: "Ah, I suppose that does make sense..."
+
+Makoto: "Really?"
+
+[Tsukiko: pout]
+
+Tsukiko: "Ehhhh... sorry, no. I don't get it at all! Why fish?"
+
+Makoto: "Eh, I dunno. They just seem more fiery, I guess. Like Chitose was saying."
+
+[Chitose: smile]
+
+Chitose: "Ya got that right!"
+
+Tsukiko: "Kinda funny that you think they're 'fiery' though; they live in water!"
+
+[Chitose: laugh]
+
+Chitose: "Tsu-tsu, you're a silly-head! It's a fiery spirit!"
+
+Chitose: "And one that cannot be put out by water!"
+
+Makoto: "Anyways, I just like the idea of them sacrificing themselves for the survival of the
+species."
+
+# hasn't been brought up yet. what the hell are you talking about Makoto
+
+Chitose: "Yup! They're sorta cool like that."
+
+Tsukiko: "If you say so."
+
+Tsukiko: "I still like trees, though."
+
+Chitose: "That's 'cause you're a tree-ish person!"
+
+Chitose: "There's no shame in that!"
+
+Makoto: "She...huh?"
+
+Makoto: "What does that even mean?"
+
+Chitose: "Ahaha! It means you will never understand the dynamic of team Chi-Tsu!"
+
+Tsukiko: "Uh... actually, um, I don't think I get it either..."
+
+Chitose: "Nor do I at times! I don't make the rules!"
+
+: "Pretty sure that this one is all you, Chitose."
+
+[Tsukiko: normal]
+[Chitose: normal]
+
+(GOTO: shrine-path-3)
+
+
+
+(Section: ch1-shrine-both-wrong)
+
+Makoto: "I'm not really into either of those to be honest."
+
+[Tsukiko: frown]
+[Chitose: frown]
+
+Tsukiko: "But the trees, they're so strong!"
+
+Chitose: "And how can you resist the fiery fishy fighting spirit?"
+
+Makoto: "Naw, naw, that's just not my style."
+
+Tsukiko: "Well, what then?"
+
+Makoto: "Tigers all the way!"
+
+Chitose: "Ehh? Tigers?"
+
+Makoto: "Ah yeah!"
+
+Tsukiko: "But, they don't live around here!"
+
+Makoto: "Hey now, that doesn't mean you can't find their essence around."
+
+Chitose: "Okay, I guess... Well, why tigers, anyways?"
+
+Makoto: "Ah, c'mon, they're so cool! Solitary prodetors, stalking their prew. Nothing can stop 'em!"
+
+Tuskiko: "But... that's kind of scary!"
+
+Makoto: "I guess it's just what I like."
+
+Makoto: "Hey, you're the one's who asked."
+
+Chitose: "I guess it's a little weird but... whatever!"
+
+[Chitose: smile]
+
+Chitose: "Tigers are ooookay with me!"
+
+Tsukiko: "..."
+
+Chitose: "I think you sorta freaked out Tsukiko, though."
+
+Makoto: "Ah, sorry, Tsukiko!"
+
+[Tsukiko: smile]
+
+Tsukiko: "Ah, no, it's fine! It just sort of surprised me a bit, that's all."
+
+[Tsukiko: normal]
+[Chitose: normal]
+
+(GOTO: shrine-path-3)
+
+
+
+(Section: shrine-path-3)
+
+Makoto: "Ah, I don't see how any of this matters anyways."
+
+Makoto: "It's not like we can pick our transformations' essence."
+
+Chitose: "I dunno! If your desire is pure, it could happen."
+
+Tsukiko: "I sure hope so. Something nature-related would really help out in my studies!"
+
+[Chitose: smile]
+
+Chitose: "Don't worry! I'm sure that whatever it is, you'll be able to master your transmutative
+magic in no time!"
+
+Makoto: "Transmutative? Why would you need something like that?"
+
+[Tsukiko: blush]
+
+Tsukiko: "Uh, I, uh..."
+
+Chitose: "Aha, well, you know Tsu-tsu!"
+
+Chitose: "Always going around, helping creatures both large and small. It would really help her out
+with healing the sick ones, ya know?"
+
+[Tsukiko: smile]
+
+Tsukiko: "Yeah!"
+
+: "Strange..."
