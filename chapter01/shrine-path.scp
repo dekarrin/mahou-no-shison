@@ -653,3 +653,356 @@ with healing the sick ones, ya know?"
 Tsukiko: "Yeah!"
 
 : "Strange..."
+
+Tsukiko: "Maybe, one day, I'll be to heal even myself..."
+
+# double-check that makoto mentioned terminal illness red-herring
+
+[Tsukiko: sad]
+
+Tsukiko: "At least, I hope so."
+
+Chitose: "I know you will!"
+
+[Tsukiko: normal]
+
+[Chitsoe: sad]
+
+Chitose: "At least you know what you wanna do."
+
+Chitose: "I still dunno..."
+
+Tsukiko: "I'm sure you'll figure it out."
+
+Tsukiko: "We still have time."
+
+: "Not much though..."
+
+# add convo about instructors/counselers pressing chitose for career
+
+[Tsukiko: normal]
+[Chitose: normal]
+
+Tsukiko: "How 'bout you, Makoto? What are you doing after you're done with school?"
+
+Makoto: "Man, I don't know. I'm in the same boat as Chitose."
+
+Makoto: "*sigh* Maybe it'll become clear after I get my transformation."
+
+[Chitose: happy]
+
+Chitose: "Yeah! That's gotta be it!"
+
+Chitose: "Otherwise, I can at least take solace in not being the only one!"
+
+Tsukiko: "I'm sure you guys will get it by then."
+
+[Tsukiko: eyes-closed]
+
+: "I sure hope so."
+
+: "I gotta come up with something, and soon!"
+
+: "..."
+
+Chitose: "Well, I dunno know about you guys, but I've had enough of trees and fish!"
+
+[Chitose: happy]
+
+Chitose: "C'mon, let's go in!"
+
+Makoto: "Right!"
+
+[Exit: Chitose]
+
+[Tsukiko: surprised]
+
+Tsukiko: "Hey, wait up, guys!"
+
+[Exit: Tsukiko]
+
+[Scene: DISSOLVE TO shrine-interior]
+[Enter: Chitose WITH PREVIOUS]
+[Enter: Tsukiko FROM LEFT]
+
+Tsukiko: "Phew! Caught up!"
+
+Chitose: "Just in time!"
+
+[Enter: Atsushi]
+(Description: Atsushi: The head priest is a balding, wizened older man wearing priest's robes and
+carrying an implement appropriate to his job, such as an ancient looking tome. He stands with a
+slight hunch, which makes him appear shorter than his full 5 feet.)
+
+Atsushi: "Welcome, children, to our humble shrine."
+
+[Atsushi: smile]
+
+Atsushi: "Do let me know if there's anything you need."
+
+# greet back, familiarity
+
+# note, if using honorifics, sensei is the proper one to use here
+
+[Chitose: excited]
+
+Chitose: "Actually, yeah! I have these flowers for the kami."
+
+# an offering to the kami is strange, fix
+
+Atsushi: "Ah, thank you, child. I will take these to their proper place."
+
+[Exit: Atsushi]
+
+Makoto: "Atsushi's pretty cool. I like him!"
+
+# why. no reason to like established yet
+
+Makoto: "How about settling around here? This wouldn't be a bad place to work."
+
+Tsukiko: "Atsuki's okay, I guess..."
+
+Tsukiko: "I'm not so sure about working here, though."
+
+Chitose: "Really? I thought you liked this place."
+
+Tsukiko: "I always think he treats me weird... especially once he found out about my condition."
+
+# sdt, make him actually do it
+
+Chitose: "Well I think..."
+
+[Chitose: smile]
+
+Chitose: "I think you're being paranoid, Tsu-tsu!"
+
+Tsukiko: "Maybe."
+
+: "Maybe?"
+
+: "You're being totally over the top. It's diabetes, not leprosy."
+
+: "You are so neurotic, sometimes..."
+
+[Enter: Atsushi]
+
+Atsushi: "The offering has been made, child."
+
+Chitose: "Thanks!"
+
+[Atsushi: smile]
+
+Atsushi: "Think nothing of it. I do my best to serve however I can."
+
+[Atsushi: normal]
+
+[Tsukiko: GO TO face-atsushi]
+
+Tsukiko: "Um, excuse me, Atsushi, sir?"
+
+Atsushi: "Yes?"
+
+Tsukiko: "I was wondering if Nao was here today?"
+
+[Atsushi: frown]
+
+Atsushi: "She is, but she is working outside right now."
+
+[Atsushi: smile]
+
+Atsushi: "However, rest assured I will be able to help you. What is it that you need?"
+
+[Tsukiko: embarassed]
+
+Tsukiko: "Oh, um, that's okay. I'll just wait for her."
+
+[Atsushi: normal]
+
+Atsushi: "Of course."
+
+Atsushi: "Do let me know if there's anything else I can do."
+
+[Exit: Atsushi]
+
+: "..."
+
+Chitose: "Mmm! It always smells so yummy in here."
+
+: "It is quite soothing."
+
+: "It just kind of melts away my worries."
+
+: "..."
+
+: "Ahh, so nice."
+
+[Enter: Nao]
+(Description: Nao: A girl in her mid-twenties, wearing the red and white robes of a miko. She has a
+blood-red sash across her front with decorative black trim, marking her as an apprentice priestess.)
+
+Nao: "Atsushi?"
+
+[Enter: Atsushi]
+
+Atsushi: "Yes?"
+
+Nao: "Ah, there you are!"
+
+[Nao: explain]
+
+Nao: "I'm done! It's all trimmed up. We should be good for another week or so."
+
+Atsushi: "Ah, thank you."
+
+Nao: "Right then, I'll go ahead and get started on preparing the filaments for matsuri"
+
+[Atsushi: smile]
+
+Atsushi: "Your enthusiasm is commendable, Nao..."
+
+Atsushi: "But at the moment, you are needed elsewhere."
+
+[Atsushi: normal]
+
+Atsushi: "You have a visitor."
+
+Nao: "Eh?"
+
+[Nao: surprise]
+
+Nao: "Oh! Tsukiko! I'm sorry, I didn't see you there! Hello!"
+
+[Tsukiko: smile]
+
+Tsukiko: "Hi!"
+
+Nao: "Oh, and you've brought your friends! Hey, how are you, Chitose!"
+
+[Chitose: smile]
+
+Chitose: "Hi, Nao! I'm good!"
+
+Nao: "And now, you I've seen, but I don't think we've met before..."
+
+[Nao: bow]
+
+Nao: "I'm Nao Nakamura. Pleasure to meet you!"
+
+Makoto: "I'm Makoto Ayase. I'm a classmate of these two."
+
+[Nao: surprise]
+
+Nao: "I thought that uniform looked familiar..."
+
+[Nao: eyes-closed]
+
+Nao: "Kusanagi's male student... very interesting..."
+
+[Nao: normal]
+
+Nao: "Anyways, Tsukiko, you're here for the ofuda, right?"
+
+[Tsukiko: embarassed]
+
+Tsukiko: "Um, well, yes, but I-!"
+
+Nao: "I understand. C'mon, let's talk out back."
+
+[Tsukiko: smile]
+
+Tsukiko: "Sure!"
+
+[Exit: Nao]
+[Exit: Tsukiko WITH PREVIOUS]
+
+Atsushi: "I shall take my leave as well."
+
+[Exit: Atsushi]
+
+Chitose: "Looks like it's down to us two once again!"
+
+Makoto: "'Spose so."
+
+Makoto: "..."
+
+Makoto: "Say, was Tsukiko acting kind of odd?"
+
+Chitose: "Eh? What do you mean?"
+
+Makoto: "She just seems on edge today. Like more so than usual."
+
+[Chitose: smile]
+
+Chitose: "Ah, that's just Tsukiko for you. She can be sorta sensitive about her problems."
+
+Makoto: "I guess."
+
+Makoto: "It just seemed a bit over the top. I really wasn't trying to pry or anything."
+
+Chitose: "I know, she comes across as a bit defensive."
+
+Chitose: "She's just sort of a private person, I guess."
+
+: "I guess."
+
+# more guesses than a quiz show. Fix
+
+: "..."
+
+[Enter: Tsukiko]
+[Enter: Nao WITH PREVIOUS]
+
+Tsukiko: "Thank you so much, Nao!"
+
+Nao: "Of course! You'll always be welcome here, remember that!"
+
+[Tsukiko: smile]
+
+Nao: "Now, if you'll execue me."
+
+[Exit: Nao]
+
+Chitose: "All done, Tsu-tsu?"
+
+Tsukiko: "Yeah, I think I'm ready to go."
+
+Makoto: "I've got nothing else to do. Let's head out!"
+
+[Scene: DISSOLVE TO shrine-water]
+[Scene: DISSOLVE TO shrine-entrance]
+[Scene: DISSOLVE TO shrine-forest-path]
+
+Chitose: "Did everything go well with Nao?"
+
+Tsukiko: "Yeah! She said that the kami seemed to be aligning particularly well this time!"
+
+Chitose: "Ah, really? Do you think?"
+
+[Tsukiko: smile]
+
+Tsukiko: "One day, maybe."
+
+[Scene: DISSOLVE TO crossroads]
+
+Tsukiko: "Okay, see you guys later!"
+
+Chitose: "Bye, Tsu-tsu! Have a good weekend! You too, Makoto!"
+
+Makoto: "Bye! See you guys on Monday!"
+
+[Exit: Tsukiko FROM stage-left]
+[Exit: Chitose FROM stage-right]
+
+[Scene: DISSOLVE TO road-to-school-night]
+
+: "Sometimes I worry about Tsukiko. She's so nervous, like all the time!"
+
+: "She needs to calm down, seriously."
+
+: "At least she's got someone like Chitose at her back."
+
+[Scene: DISSOLVE TO ayase-house-exterior-night]
+
+: "Ah, what can I say. Girls are weird."
+
+(GOTO: ch1-common-home-after-club)
