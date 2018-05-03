@@ -1,3 +1,5 @@
 *.rpy
 *.docx
 *.doc
+
+.DS_Store
