@@ -1,20 +1,104 @@
 ﻿面白い　Project Character details
 
-This file contains information on the individual characters.
------
 
-Brainstorming - plotlines/chars
+============
+MAKOTO AYASE
+(綾瀬真)
+============
+Makoto The only male attendee of Kusanagi Institute. He is fairly laid-back, rather to the point of
+not getting much of anything done. Enjoys watching TV, does not very much enjoy doing work. Grades
+are rather lackluster. Lives with parents in house rented from aunt. Due to grades not being good,
+parents decide to enroll him right away in the school upon receiving the invitation. During their
+initial investigation, they do not find out the MG angle, and so decide to go ahead with it.
 
-Ayase Family (綾瀬)
+Has a younger sister. She is three years younger. Though they used to be close as children, as they
+entered their teenage years they grew apart and started to have their relationship deteriorate,
+especially as she was very task-driven as opposed to his laziness.
+
+
 ===============
-The Protagonist
+RURI MATSUSHITA
+(松下琉璃)
 ===============
-The male attendee of the special school. He is fairly laid-back, rather to the point of not getting much of
-anything done. Enjoys watching TV, does not very much enjoy doing work. Grades are rather lackluster. Lives
-with parents in house rented from aunt. Due to grades not being good, parents decide to enroll him right away
-in the school upon receiving the invitation. During their initial investigation, they do not find out the MG
-angle, and so decide to go ahead with it.
+Ruri is a student at Kusanagi, and a classmate of Makoto. She very much enjoys learning new things.
+When she was younger, she once got into trouble for breaking into the forbidden section of the
+family library and reading some of the more cutting-edge research in how to transform. Her mother is
+the sage in her hometown, who ended up marrying a farmer. It is mildly unusual for a student at
+Kusanagi to have a direct bloodline to a previous student; most are born from mundane parents.
 
-Has a younger sister. She is three years younger. Though they used to be close as children, as they entered
-their teenage years they grew apart and started to have their relationship deteriorate, especially as she was
-very task-driven as opposed to his laziness.
+Growing up for Ruri was a bit difficult due to her propensity for being more alone than most; she
+was schooled at home through grade school (HIGHLY unusual), and did not socially develop as quickly
+as other children. Generally, she preferred being home-taught. She considers it a bit saddening that
+she isn't as well versed socially, but doesn't mind it too much. She is more arrogant than many
+because she thinks she knows it all, but this is because she typically does. She consistently sits
+at or near the top of her class in terms of grades.
+
+Ruri doesn't understand why people get mad at her for being such a know-it-all, and has not really
+developed the skills for dealing with confrontation. She is absolutely not averse to conflict, which
+can get her into trouble.
+
+Though her name is written as 琉璃 meaning 'lapis lazuli', there is a name with the same reading,
+流理 meaning 'flow of logic'. This has been used at least a few times in her past to pick fun at her
+book smarts, much to her annoyance.
+
+Ruri wants to one day discover a way to transmute non-living items from natural ones. The way she
+wishes to do so has never been done, as it requires advanced knowledge in physics and biochemistry.
+For her, the challenge of doing something new and being renowned as opposed to scorned for her
+scholarly work is the reward that she is looking for.
+
+
+=============
+CHITOSE SATOU
+(佐藤ちとせ)
+=============
+Another student at Kusanagi, Chitose enjoys running and sports. She tends to be high-energy, and
+puts a cheery face on everything. Why this is is something of a mystery, because she's not very good
+at it (retconned; she is indeed quite good at softball). Always being on the happier side means that
+she can annoy others when a situation calls for a bit of a more somber tone.
+
+Chitose has a very close bond with her mother; she had a good upbringing in a suburban setting and
+is fairly well acquainted with modern amenities. She is not sure what she wants to do in life after
+graduation from high school, but she very much would like to do something to make her mother proud.
+
+
+===============
+TSUKIKO EBIHARA
+(海老原月子)
+===============
+Tsukiko is a student at Kusanagi. Her father is an American expat while her mother is a Japanese
+native. Tsukiko harbors the secret that she is transgender, though is careful to obscure this from
+authorities who might give her a hard time about it. In general, only a handful of people
+sympathetic to her know about this; most people have no idea. She is very good friends with Chitose,
+who is the only other student that knows her secret, and often relies on her to cover for her in
+situations which would otherwise be untenable.
+
+Due to her status, she is self-deprecating and modest to a fault.
+
+Enjoys sewing in particular, and has made most of the clothing that she owns. Her close attention to
+detail makes it so she can often see even the slightest flaws in what she has expertise in, and as a
+perfectionist she has a hard time not voicing her opinion in such areas, though she tends to quickly
+withdraw when it puts her in even the appearance of conflict with others.
+
+Strives to be able to get into transformation and healing magic, especially of the living human.
+Wants to be able to fix herself she can have a normal body, and perhaps others like her. Even though
+she has been on hormones for some time, she wishes to attain perfect form.
+
+
+===========
+HONOKA KANO
+(狩野ほのか)
+===========
+Honoka is a student at Kusanagi. Like Ruri, she is very knowledgeable, though generally just a bit
+under the level of Ruri. She knows when to hold her tongue in general, but is still prone to getting
+into petty conflicts. Honoka doesn't get along with Ruri at all; she sees her as a rival and a show
+off, and is very annoyed by Ruri's brusqueness and abrasiveness. Wants everyone to get along, but
+also considers herself to be right, and often steamrolls the quieter ones rather than actually
+trying to get over differences.
+
+She gets upset when people try to challenge her authority, and doesn't understand why people don't
+just try to do what she says. She sees herself as a world peace-monger, and it is practically
+impossible to get her to see things differently.
+
+Honoka wants to try and end all fighting in the world, but is not naive enough to think this is
+possible, and so she would like to seek some sort of diplomacy position. She has a focus on the
+subtler magics that tend to affect the mind and make people more susceptible to suggestion.
