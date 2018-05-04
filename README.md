@@ -3,6 +3,8 @@
 
 A visual novel about love, evil, and Magical Girls.
 
+Written in the [scrappy](github.com/dekarrin/scrappy) manuscript language.
+
 -----
 This repository is the storage place for notes and script for a visual novel in-progress. As such,
 it contains massive spoilers, particularly in the 'worldbuilding' sections. Or, perhaps there will
