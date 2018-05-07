@@ -1,4 +1,5 @@
 SCPC = scpcompile
+LEXFLAGS = --pretty
 ASTFLAGS = --pretty
 DOCXFLAGS =
 RPYFLAGS =
@@ -14,6 +15,7 @@ clean:
 	rm -rf *.docx
 	rm -rf *.rpy
 	rm -rf chapter01/*.ast
+	rm -rf chapter01/*.lex
 
 chapter01.docx: $(CH01_ASTS)
 	$(SCPC) --word $(DOCXFLAGS) -f ast $(patsubst %,-i %,$(CH01_ASTS)) -o $@
@@ -23,3 +25,6 @@ chapter01.rpy: $(CH01_ASTS)
 
 %.ast: %.scp
 	$(SCPC) --ast $(ASTFLAGS) -i $< -o $@
+
+%.lex: %.scp
+	$(SCPC) --lex $(LEXFLAGS) -i $< -o $@
