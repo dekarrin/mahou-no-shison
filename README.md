@@ -7,7 +7,7 @@ Written in the [scrappy](github.com/dekarrin/scrappy) manuscript language.
 
 ## Installation/Build
 To build, make sure scrappy is installed by cloning it or grabbing a release and running
-`python setup.py install`. Then, to build, do `make`.
+`python setup.py install`. Then, go to the root of this repo, and do `make`.
 
 -----
 This repository is the storage place for notes and script for a visual novel in-progress. As such,
