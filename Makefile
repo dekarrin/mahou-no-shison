@@ -18,7 +18,7 @@ chapter01.docx: $(CH01_ASTS)
 	$(SCPC) --word $(DOCXFLAGS) -f ast $(patsubst %,-i %,$(CH01_ASTS)) -o $@
 
 chapter01.rpy: $(CH01_ASTS)
-	$(SCPC) --word $(RPYFLAGS) -f ast $(patsubst %,-i %,$(CH01_ASTS)) -o $@
+	$(SCPC) --renpy $(RPYFLAGS) -f ast $(patsubst %,-i %,$(CH01_ASTS)) -o $@
 
 %.ast: %.scp
 	$(SCPC) --ast -i $< -o $@
