@@ -1,4 +1,5 @@
 SCPC = scpcompile
+ASTFLAGS = --pretty
 DOCXFLAGS =
 RPYFLAGS =
 
@@ -21,4 +22,4 @@ chapter01.rpy: $(CH01_ASTS)
 	$(SCPC) --renpy $(RPYFLAGS) -f ast $(patsubst %,-i %,$(CH01_ASTS)) -o $@
 
 %.ast: %.scp
-	$(SCPC) --ast -i $< -o $@
+	$(SCPC) --ast $(ASTFLAGS) -i $< -o $@
