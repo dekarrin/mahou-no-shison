@@ -29,7 +29,7 @@ Honoka: "Buh-bye, Makoto."
 
 : "Oh well! This will give me time to get caught up on all that homework."
 
-[SFX: 
+[SFX: door_squeek]
 
 [Scene: DISSOLVE TO ayase-living-room]
 
@@ -271,7 +271,7 @@ Makoto: "Ugh, hang on, let me try again..."
 
 : "Okay, so I put the video in..."
 
-[SFX vcr-accept]
+[SFX: vcr-accept]
 
 : "Okay, and now..."
 
