@@ -1523,7 +1523,7 @@ Honoka: "To each his own."
 
 : "And to my own I shall go. So yummy!"
 
-[Enter Ruri]
+[Enter: Ruri]
 
 # above notation: she should be between chitose and honoka]
 
@@ -1585,7 +1585,7 @@ Chitose: "I think you've made up for it with the soup though!"
 
 Chitose: "That's a whole lot!"
 
-[Tsukiko: embarassed]
+[Tsukiko: embarrassed]
 
 Tsukiko: "Yeah, I'm really hungry today."
 
@@ -1593,12 +1593,12 @@ Tsukiko: "I guess PE must have really worn me out..."
 
 : "It's 5 bowls of soup, Tsukiko. That's not normal even if you've just finished climbing Mt Fuji."
 
-[Tsukiko GO TO bend-down]
+[Tsukiko: GO TO bend-down]
 [Tsukiko: confused]
 
 Tsukiko: "Eh?"
 
-[Tsukiko GO TO stand]
+[Tsukiko: GO TO stand]
 
 [Tsukiko: explain]
 
@@ -1633,8 +1633,8 @@ Tsukiko: "Inefficiencies like that creep up faster than you might think."
 Chitose: "Sure, sure, if you say so, Tsu-tsu!"
 
 [Scene: DISSOLVE TO after-school]
-[Enter Honoka WITH PREVIOUS]
-[Enter Ruri WITH PREVIOUS]
+[Enter: Honoka WITH PREVIOUS]
+[Enter: Ruri WITH PREVIOUS]
 
 Honoka: "Oi, Makoto! Ya wanna come to the library after school?"
 
@@ -1650,7 +1650,7 @@ Makoto: "Well..."
 
 # honoka needs a reason for inviting. Also make this flow better with the rest of the convo
 
-[Enter Chitose (stressed) FROM LEFT]
+[Enter: Chitose (stressed) FROM LEFT]
 
 Chitose: "Haaaaa... I have too much homework..."
 
@@ -1776,7 +1776,7 @@ Honoka: "Hey, yeah. How 'bout it, Makoto? You going with us?"
 
 Makoto: "Ahhh...."
 
-[Choice shrine-choice]
+[Choice: shrine-choice]
 * "Sure, I'll come with!": GO TO shrine-path-1
 * "I need to study at the library.": GO TO library-path-1
 * "I want to go home.": GO TO home-path-1
