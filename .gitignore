@@ -1,5 +1,7 @@
 *.rpy
 *.docx
 *.doc
+*.ast
+*.lex
 
 .DS_Store
