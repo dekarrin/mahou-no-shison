@@ -15,6 +15,7 @@ all: chapter01.docx chapter01.rpy chapter01.ana
 clean:
 	rm -rf *.docx
 	rm -rf *.rpy
+	rm -rf *.ana
 	rm -rf chapter01/*.ast
 	rm -rf chapter01/*.lex
 
