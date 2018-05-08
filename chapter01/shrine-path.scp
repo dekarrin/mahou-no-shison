@@ -12,6 +12,7 @@ Tsukiko: "Awesome! I'll see you guys after school!"
 
 (FLAG: going-to-shrine)
 (GOTO: ch1-common-ayase-club)
+(END)
 
 
 
@@ -436,6 +437,7 @@ Makoto: "Hm, well..."
 * "Trees are pretty strong.": GO TO ch1-shrine-tsukiko
 * "Fish, 'cause they never stop'.": GO TO ch1-shrine-chitose
 * "Tigers are invincible!": GO TO ch1-shrine-both-wrong
+(END)
 
 
 
@@ -497,6 +499,7 @@ Chitose: "Ehehe! Okaysies."
 [Chitose: normal]
 
 (GOTO: shrine-path-3)
+(END)
 
 
 
@@ -561,6 +564,7 @@ Chitose: "Nor do I at times! I don't make the rules!"
 [Chitose: normal]
 
 (GOTO: shrine-path-3)
+(END)
 
 
 
@@ -619,6 +623,7 @@ Tsukiko: "Ah, no, it's fine! It just sort of surprised me a bit, that's all."
 [Chitose: normal]
 
 (GOTO: shrine-path-3)
+(END)
 
 
 
@@ -1006,3 +1011,4 @@ Makoto: "Bye! See you guys on Monday!"
 : "Ah, what can I say. Girls are weird."
 
 (GOTO: ch1-common-home-after-club)
+(END)

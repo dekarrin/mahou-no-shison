@@ -19,6 +19,7 @@ Honoka: "Yeah... I'm off too. See you then."
 
 (FLAG: going-to-library)
 (GOTO: ch1-common-ayase-club)
+(END)
 
 
 
@@ -196,6 +197,7 @@ Honoka: "Well?"
 * "Honoka makes sense.": GO TO ch1-library-honoka
 * "Ruri raises a good point.": GO TO ch1-library-ruri
 * "You're both wrong.": GO TO ch1-library-both-wrong
+(END)
 
 
 
@@ -242,6 +244,7 @@ Ruri: "Fine. I concede. I shall keep my belongings to my 'side'."
 [Honoka: normal]
 
 (GOTO: ch1-library-path-3)
+(END)
 
 
 
@@ -293,6 +296,7 @@ Honoka: "Ugh! Whatever. I don't even care anymore."
 # more interaction from ruri in this section, maybe?
 
 (GOTO: ch1-library-path-3)
+(END)
 
 
 
@@ -361,6 +365,7 @@ Ruri: "And that side is full of refuse."
 : "I guess that's progress, technically."
 
 (GOTO: ch1-library-path-3)
+(END)
 
 
 
@@ -814,3 +819,4 @@ forces!"
 : "Ah well. Best not to dwell on it too much, I suppose."
 
 (GOTO: ch1-common-home-after-club)
+(END)

@@ -16,6 +16,9 @@ Honoka: "Buh-bye, Makoto."
 
 (FLAG: going-to-home)
 (GOTO: day-1-common)
+(END)
+
+
 
 (SECTION: home-path-2)
 
@@ -54,6 +57,9 @@ Miyuki: "You in?"
 [Choice]
 * "I'm too tired.": GO TO reject-imouto-1
 * "Sounds fun.": GO TO imouto-movies-1
+(END)
+
+
 
 (Section: reject-imouto-1)
 
@@ -115,6 +121,9 @@ Makoto: "Yeah..."
 : "I've waited on this deck for far too long!"
 
 (GOTO: ch1-common-sleep-1)
+(END)
+
+
 
 (Section: imouto-movies-1)
 
@@ -420,3 +429,4 @@ Miyuki: "'Night."
 : "Ah, I can't miss that!"
 
 (GOTO: ch1-common-sleep)
+(END)

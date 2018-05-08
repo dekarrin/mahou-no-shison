@@ -28,6 +28,7 @@
 {
 	(GOTO: library-path-2)
 }
+(END)
 
 
 
@@ -79,6 +80,7 @@ Makoto: "Uh, okay. You have fun with that."
 : "Oh, whatever. I'll just do it tomorrow. I can barely keep my eyes open..."
 
 (GOTO: ch1-common-sleep)
+(END)
 
 
 
@@ -282,3 +284,4 @@ Makoto: "Illuminate."
 [Scene: EYECLOSE TO black]
 
 (GOTO: ch2-start)
+(END)
