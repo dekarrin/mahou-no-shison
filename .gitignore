@@ -3,5 +3,6 @@
 *.doc
 *.ast
 *.lex
+*.ana
 
 .DS_Store

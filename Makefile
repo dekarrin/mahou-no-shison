@@ -10,7 +10,7 @@ CH01_ASTS = $(patsubst %.scp,chapter01/%.ast,$(CH01_FILES))
 
 .PHONY: clean all
 
-all: chapter01.docx chapter01.rpy
+all: chapter01.docx chapter01.rpy chapter01.ana
 
 clean:
 	rm -rf *.docx
