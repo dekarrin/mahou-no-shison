@@ -1,12 +1,12 @@
-SCPC = scpcompile
+FEYC = fairyc
 LEXFLAGS = --pretty
 ASTFLAGS = --pretty
 DOCXFLAGS =
 RPYFLAGS =
 ANALYZEFLAGS =
 
-CH01_FILES = start.scp common-routes.scp home-path.scp library-path.scp shrine-path.scp
-CH01_ASTS = $(patsubst %.scp,chapter01/%.ast,$(CH01_FILES))
+CH01_FILES = start.fey common-routes.fey home-path.fey library-path.fey shrine-path.fey
+CH01_ASTS = $(patsubst %.fey,chapter01/%.ast,$(CH01_FILES))
 
 .PHONY: clean all
 
@@ -20,16 +20,16 @@ clean:
 	rm -rf chapter01/*.lex
 
 chapter01.docx: $(CH01_ASTS)
-	$(SCPC) --word $(DOCXFLAGS) -f ast $(patsubst %,-i %,$(CH01_ASTS)) -o $@
+	$(FEYC) docx $(DOCXFLAGS) -f ast $(CH01_ASTS) -o $@
 
 chapter01.rpy: $(CH01_ASTS)
-	$(SCPC) --renpy $(RPYFLAGS) -f ast $(patsubst %,-i %,$(CH01_ASTS)) -o $@
+	$(FEYC) renpy $(RPYFLAGS) -f ast $(CH01_ASTS) -o $@
 
 chapter01.ana: $(CH01_ASTS)
-	$(SCPC) --analyze $(ANALYZEFLAGS) -f ast $(patsubst %,-i %,$(CH01_ASTS)) -o $@
+	$(FEYC) analyze $(ANALYZEFLAGS) -f ast $(CH01_ASTS) -o $@
 
-%.ast: %.scp
-	$(SCPC) --ast $(ASTFLAGS) -i $< -o $@
+%.ast: %.fey
+	$(FEYC) ast $(ASTFLAGS) $< -o $@
 
-%.lex: %.scp
-	$(SCPC) --lex $(LEXFLAGS) -i $< -o $@
+%.lex: %.fey
+	$(FEYC) lex $(LEXFLAGS) $< -o $@

@@ -3,11 +3,11 @@
 
 A visual novel about love, evil, and Magical Girls.
 
-Written in the [scrappy](github.com/dekarrin/scrappy) manuscript language.
+Written in the [FairyScript](github.com/dekarrin/fairyscript) manuscript language.
 
 ## Installation/Build
-To build, make sure scrappy is installed by cloning it or grabbing a release and running
-`python setup.py install`. Then, go to the root of this repo, and do `make`.
+To build, make sure fairyc is installed by cloning it or running `pip install fairyscript`. Then, go
+to the root of this repo, and do `make`.
 
 -----
 This repository is the storage place for notes and script for a visual novel in-progress. As such,
